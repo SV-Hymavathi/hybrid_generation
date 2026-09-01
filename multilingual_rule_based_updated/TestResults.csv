@@ -1,0 +1,330 @@
+--la	ERROR_2:[Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	FULL_TRACEBACK: Traceback (most recent call last):
+  File "/root/projects/multilingual_rule_based_updated/hindi_gen.py", line 170, in process_file_data
+    processed_foreign_words, processed_indeclinables, processed_nouns, processed_pronouns, processed_others, process_nominal_form, processed_verbs, processed_auxverbs, processed_adjectives, processed_words, verb_dict, nonfinite_dict = process_all_cat(
+                                                                                                                                                                                                                                           ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 25, in process_all_cat
+    processed_nouns = process_nouns(index_data,seman_data,nouns_data, words_info, verbs_data,lang)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 418, in process_nouns
+    case, postposition = preprocess_postposition_new('noun', noun, words_info, main_verb, index_data,lang)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/common_v4.py", line 444, in preprocess_postposition_new
+    ppost = get_ppost(
+            ^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/generated_conditions.py", line 7, in get_ppost
+    df = pd.read_csv(url)
+         ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/common.py", line 930, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	ERROR_2:[Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	FULL_TRACEBACK: Traceback (most recent call last):
+  File "/root/projects/multilingual_rule_based_updated/hindi_gen.py", line 170, in process_file_data
+    processed_foreign_words, processed_indeclinables, processed_nouns, processed_pronouns, processed_others, process_nominal_form, processed_verbs, processed_auxverbs, processed_adjectives, processed_words, verb_dict, nonfinite_dict = process_all_cat(
+                                                                                                                                                                                                                                           ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 25, in process_all_cat
+    processed_nouns = process_nouns(index_data,seman_data,nouns_data, words_info, verbs_data,lang)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 418, in process_nouns
+    case, postposition = preprocess_postposition_new('noun', noun, words_info, main_verb, index_data,lang)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/common_v4.py", line 444, in preprocess_postposition_new
+    ppost = get_ppost(
+            ^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/generated_conditions.py", line 7, in get_ppost
+    df = pd.read_csv(url)
+         ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/common.py", line 930, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	ERROR_2:[Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	FULL_TRACEBACK: Traceback (most recent call last):
+  File "/root/projects/multilingual_rule_based_updated/hindi_gen.py", line 170, in process_file_data
+    processed_foreign_words, processed_indeclinables, processed_nouns, processed_pronouns, processed_others, process_nominal_form, processed_verbs, processed_auxverbs, processed_adjectives, processed_words, verb_dict, nonfinite_dict = process_all_cat(
+                                                                                                                                                                                                                                           ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 25, in process_all_cat
+    processed_nouns = process_nouns(index_data,seman_data,nouns_data, words_info, verbs_data,lang)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 418, in process_nouns
+    case, postposition = preprocess_postposition_new('noun', noun, words_info, main_verb, index_data,lang)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/common_v4.py", line 444, in preprocess_postposition_new
+    ppost = get_ppost(
+            ^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/generated_conditions.py", line 7, in get_ppost
+    df = pd.read_csv(url)
+         ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/common.py", line 930, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	ERROR_2:[Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	FULL_TRACEBACK: Traceback (most recent call last):
+  File "/root/projects/multilingual_rule_based_updated/hindi_gen.py", line 170, in process_file_data
+    processed_foreign_words, processed_indeclinables, processed_nouns, processed_pronouns, processed_others, process_nominal_form, processed_verbs, processed_auxverbs, processed_adjectives, processed_words, verb_dict, nonfinite_dict = process_all_cat(
+                                                                                                                                                                                                                                           ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 25, in process_all_cat
+    processed_nouns = process_nouns(index_data,seman_data,nouns_data, words_info, verbs_data,lang)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 418, in process_nouns
+    case, postposition = preprocess_postposition_new('noun', noun, words_info, main_verb, index_data,lang)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/common_v4.py", line 444, in preprocess_postposition_new
+    ppost = get_ppost(
+            ^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/generated_conditions.py", line 7, in get_ppost
+    df = pd.read_csv(url)
+         ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/common.py", line 930, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	ERROR_2:[Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	FULL_TRACEBACK: Traceback (most recent call last):
+  File "/root/projects/multilingual_rule_based_updated/hindi_gen.py", line 170, in process_file_data
+    processed_foreign_words, processed_indeclinables, processed_nouns, processed_pronouns, processed_others, process_nominal_form, processed_verbs, processed_auxverbs, processed_adjectives, processed_words, verb_dict, nonfinite_dict = process_all_cat(
+                                                                                                                                                                                                                                           ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 25, in process_all_cat
+    processed_nouns = process_nouns(index_data,seman_data,nouns_data, words_info, verbs_data,lang)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 418, in process_nouns
+    case, postposition = preprocess_postposition_new('noun', noun, words_info, main_verb, index_data,lang)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/common_v4.py", line 444, in preprocess_postposition_new
+    ppost = get_ppost(
+            ^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/generated_conditions.py", line 7, in get_ppost
+    df = pd.read_csv(url)
+         ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/common.py", line 930, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	ERROR_2:[Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	FULL_TRACEBACK: Traceback (most recent call last):
+  File "/root/projects/multilingual_rule_based_updated/hindi_gen.py", line 170, in process_file_data
+    processed_foreign_words, processed_indeclinables, processed_nouns, processed_pronouns, processed_others, process_nominal_form, processed_verbs, processed_auxverbs, processed_adjectives, processed_words, verb_dict, nonfinite_dict = process_all_cat(
+                                                                                                                                                                                                                                           ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 25, in process_all_cat
+    processed_nouns = process_nouns(index_data,seman_data,nouns_data, words_info, verbs_data,lang)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 418, in process_nouns
+    case, postposition = preprocess_postposition_new('noun', noun, words_info, main_verb, index_data,lang)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/common_v4.py", line 444, in preprocess_postposition_new
+    ppost = get_ppost(
+            ^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/generated_conditions.py", line 7, in get_ppost
+    df = pd.read_csv(url)
+         ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/common.py", line 930, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	ERROR_2:[Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	FULL_TRACEBACK: Traceback (most recent call last):
+  File "/root/projects/multilingual_rule_based_updated/hindi_gen.py", line 170, in process_file_data
+    processed_foreign_words, processed_indeclinables, processed_nouns, processed_pronouns, processed_others, process_nominal_form, processed_verbs, processed_auxverbs, processed_adjectives, processed_words, verb_dict, nonfinite_dict = process_all_cat(
+                                                                                                                                                                                                                                           ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 25, in process_all_cat
+    processed_nouns = process_nouns(index_data,seman_data,nouns_data, words_info, verbs_data,lang)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 418, in process_nouns
+    case, postposition = preprocess_postposition_new('noun', noun, words_info, main_verb, index_data,lang)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/common_v4.py", line 444, in preprocess_postposition_new
+    ppost = get_ppost(
+            ^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/generated_conditions.py", line 7, in get_ppost
+    df = pd.read_csv(url)
+         ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/common.py", line 930, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	ERROR_2:[Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	FULL_TRACEBACK: Traceback (most recent call last):
+  File "/root/projects/multilingual_rule_based_updated/hindi_gen.py", line 170, in process_file_data
+    processed_foreign_words, processed_indeclinables, processed_nouns, processed_pronouns, processed_others, process_nominal_form, processed_verbs, processed_auxverbs, processed_adjectives, processed_words, verb_dict, nonfinite_dict = process_all_cat(
+                                                                                                                                                                                                                                           ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 25, in process_all_cat
+    processed_nouns = process_nouns(index_data,seman_data,nouns_data, words_info, verbs_data,lang)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 418, in process_nouns
+    case, postposition = preprocess_postposition_new('noun', noun, words_info, main_verb, index_data,lang)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/common_v4.py", line 444, in preprocess_postposition_new
+    ppost = get_ppost(
+            ^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/generated_conditions.py", line 7, in get_ppost
+    df = pd.read_csv(url)
+         ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/common.py", line 930, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	ERROR_2:[Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	FULL_TRACEBACK: Traceback (most recent call last):
+  File "/root/projects/multilingual_rule_based_updated/hindi_gen.py", line 170, in process_file_data
+    processed_foreign_words, processed_indeclinables, processed_nouns, processed_pronouns, processed_others, process_nominal_form, processed_verbs, processed_auxverbs, processed_adjectives, processed_words, verb_dict, nonfinite_dict = process_all_cat(
+                                                                                                                                                                                                                                           ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 25, in process_all_cat
+    processed_nouns = process_nouns(index_data,seman_data,nouns_data, words_info, verbs_data,lang)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 418, in process_nouns
+    case, postposition = preprocess_postposition_new('noun', noun, words_info, main_verb, index_data,lang)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/common_v4.py", line 444, in preprocess_postposition_new
+    ppost = get_ppost(
+            ^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/generated_conditions.py", line 7, in get_ppost
+    df = pd.read_csv(url)
+         ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/common.py", line 930, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	ERROR_2:[Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	
+--la	FULL_TRACEBACK: Traceback (most recent call last):
+  File "/root/projects/multilingual_rule_based_updated/hindi_gen.py", line 170, in process_file_data
+    processed_foreign_words, processed_indeclinables, processed_nouns, processed_pronouns, processed_others, process_nominal_form, processed_verbs, processed_auxverbs, processed_adjectives, processed_words, verb_dict, nonfinite_dict = process_all_cat(
+                                                                                                                                                                                                                                           ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 25, in process_all_cat
+    processed_nouns = process_nouns(index_data,seman_data,nouns_data, words_info, verbs_data,lang)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/process_cat.py", line 418, in process_nouns
+    case, postposition = preprocess_postposition_new('noun', noun, words_info, main_verb, index_data,lang)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/repository/common_v4.py", line 444, in preprocess_postposition_new
+    ppost = get_ppost(
+            ^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/generated_conditions.py", line 7, in get_ppost
+    df = pd.read_csv(url)
+         ^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/root/projects/multilingual_rule_based_updated/.venv/lib/python3.12/site-packages/pandas/io/common.py", line 930, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'pre-pos - Sheet1.csv'	Error	 	

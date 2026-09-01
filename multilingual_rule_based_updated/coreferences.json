@@ -1,0 +1,123 @@
+[
+  {
+    "usr_id": "Tourism_019",
+    "index": 3,
+    "coref_id": 1,
+    "coref_word": "BagavAna+mallinAWa",
+    "coref_word_gender": "male/per",
+    "morpho_sem": null,
+    "discourse_head": "Tourism_018.3",
+    "coref_word_sent_id": "Tourism_018",
+    "coref_word_index": "3"
+  },
+  {
+    "usr_id": "Tourism_039",
+    "index": 2,
+    "coref_id": 2,
+    "coref_word": "caMxraxeva",
+    "coref_word_gender": "male/per",
+    "morpho_sem": null,
+    "discourse_head": "Tourism_038.3",
+    "coref_word_sent_id": "Tourism_038",
+    "coref_word_index": "3"
+  },
+  {
+    "usr_id": "Tourism_110",
+    "index": 1,
+    "coref_id": 3,
+    "coref_word": "stream_6",
+    "coref_word_gender": null,
+    "morpho_sem": "pl",
+    "discourse_head": "Tourism_109.2",
+    "coref_word_sent_id": "Tourism_109",
+    "coref_word_index": "2"
+  },
+  {
+    "usr_id": "Tourism_140",
+    "index": 5,
+    "coref_id": 4,
+    "coref_word": "area_5",
+    "coref_word_gender": null,
+    "morpho_sem": null,
+    "discourse_head": "Tourism_138.3",
+    "coref_word_sent_id": "Tourism_138",
+    "coref_word_index": "3"
+  },
+  {
+    "usr_id": "Tourism_141",
+    "index": 1,
+    "coref_id": 4,
+    "coref_word": "area_5",
+    "coref_word_gender": null,
+    "morpho_sem": null,
+    "discourse_head": "Tourism_138.3",
+    "coref_word_sent_id": "Tourism_138",
+    "coref_word_index": "3"
+  },
+  {
+    "usr_id": "Tourism_143",
+    "index": 5,
+    "coref_id": 4,
+    "coref_word": "area_5",
+    "coref_word_gender": null,
+    "morpho_sem": null,
+    "discourse_head": "Tourism_138.3",
+    "coref_word_sent_id": "Tourism_138",
+    "coref_word_index": "3"
+  },
+  {
+    "usr_id": "Tourism_165",
+    "index": 1,
+    "coref_id": 5,
+    "coref_word": "cave_5",
+    "coref_word_gender": null,
+    "morpho_sem": null,
+    "discourse_head": "Tourism_164.1",
+    "coref_word_sent_id": "Tourism_164",
+    "coref_word_index": "1"
+  },
+  {
+    "usr_id": "Tourism_180",
+    "index": 5,
+    "coref_id": 6,
+    "coref_word": "gulamarga",
+    "coref_word_gender": "place",
+    "morpho_sem": null,
+    "discourse_head": "Tourism_179.10",
+    "coref_word_sent_id": "Tourism_179",
+    "coref_word_index": "10"
+  },
+  {
+    "usr_id": "Tourism_185",
+    "index": 2,
+    "coref_id": 7,
+    "coref_word": "leha+Sahara",
+    "coref_word_gender": "place",
+    "morpho_sem": null,
+    "discourse_head": "Tourism_183.3",
+    "coref_word_sent_id": "Tourism_183",
+    "coref_word_index": "3"
+  },
+  {
+    "usr_id": "Tourism_216",
+    "index": 4,
+    "coref_id": 8,
+    "coref_word": "lAlakilA",
+    "coref_word_gender": "place",
+    "morpho_sem": null,
+    "discourse_head": "Tourism_215.8",
+    "coref_word_sent_id": "Tourism_215",
+    "coref_word_index": "8"
+  },
+  {
+    "usr_id": "Tourism_218",
+    "index": 3,
+    "coref_id": 9,
+    "coref_word": "lAla+kilA",
+    "coref_word_gender": "place",
+    "morpho_sem": null,
+    "discourse_head": "Tourism_217.12",
+    "coref_word_sent_id": "Tourism_217",
+    "coref_word_index": "12"
+  }
+]

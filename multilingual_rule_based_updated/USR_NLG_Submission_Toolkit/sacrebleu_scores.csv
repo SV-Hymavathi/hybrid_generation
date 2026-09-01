@@ -1,0 +1,9 @@
+system,BLEU,BLEU_signature,chrF2,chrF_signature,n
+Llama (direct),14.1,nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0,41.3,nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0,250
+Mistral (direct),14.1,nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0,42.3,nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0,250
+Gemma (direct),11.1,nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0,39.6,nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0,250
+Google Translate,14.0,nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0,43.6,nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0,250
+IndicTrans2,14.5,nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0,42.8,nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0,250
+Llama (hybrid),48.5,nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0,80.7,nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0,250
+Mistral (hybrid),47.7,nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0,79.2,nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0,250
+Gemma (hybrid),47.0,nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0,78.7,nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0,250

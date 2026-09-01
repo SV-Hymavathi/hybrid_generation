@@ -1,0 +1,9 @@
+system,faithfulness_F1,BLEU,chrF,n
+Llama (direct),0.485,14.2,42.1,250
+Mistral (direct),0.5,14.4,43.1,250
+Gemma (direct),0.473,11.7,40.3,250
+Google Translate,0.528,14.3,44.4,250
+IndicTrans2,0.516,14.5,43.6,250
+Llama (hybrid),0.911,61.9,81.0,250
+Mistral (hybrid),0.922,65.3,79.7,250
+Gemma (hybrid),0.9,62.5,79.1,250

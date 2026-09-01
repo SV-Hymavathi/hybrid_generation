@@ -1,0 +1,1 @@
+lt-proc -g -c eng.autogen.bin $1 > $1-out.txt

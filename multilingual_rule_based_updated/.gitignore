@@ -1,0 +1,30 @@
+# Python runtime
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Generated debug / output files (produced at runtime, do not commit)
+debug_hi_en.txt
+output.json
+generated_data.json
+tool_output_50.json
+processed_output.csv
+
+# Windows filesystem artifacts
+*.Zone.Identifier
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp

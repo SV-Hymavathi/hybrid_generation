@@ -1,0 +1,2862 @@
+﻿"<sent_id=Tourism_001>
+#चेंगलपट स्टेशन से एक लाइन अरकोनम तक जाती है ।
+ceMgalapata 1 - - - - - - 3:begin
+steSana 2 - - - - - - 3:inside
+[ne_1] 3 place - 8:k5 - def - -
+eka_2 4 - - 5:quant - - - -
+lAina_1 5 - - 8:k1 - - - -
+arakonama 6 - - - - - - 7:begin
+[ne_2] 7 place - 8:k2p - def - -
+jA_1-wA_hE_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_002>
+#द्वारका चार धामों में एक धाम भी है ।
+xvArakA 1 - - - - - - 6:begin
+cAra 2 - - - - - - 8:begin
+XAma 3 - - - - - - 8:inside
+[ne_1] 8 - pl 6:rn - - - -
+eka_2 4 - - 9:quant - - - -
+XAma 5 - - - - - - 9:begin
+[ne_2] 9 - - 6:k1s - BI_1 - -
+[ne_3] 6 place - 7:k1 - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_003>
+#गढ़-मुक्तेश्वर हिंदुओं का पावन तीर्थ है ।
+gaDZa 1 - - - - - - 3:begin
+mukwesvara 2 - - - - - - 3:inside
+[ne_1] 3 place - 7:k1 - - - -
+hiMxu_1 4 - pl 6:r6 - def - -
+pAvana_2 5 - - 6:mod - - - -
+wIrWa_1 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_004>
+#चलें गढ़ मुक्तेश्वर का गंगा मेला ।
+gaDZa 1 - - - - - - 3:begin
+mukwesvara 2 - - - - - - 3:inside
+[ne_1] 3 place - 7:r6 - def - -
+gaMgA 4 - - - - - - 7:mod
+melA_1 5 - - - - - - 7:head
+[nc_1] 7 - - 6:k2p - - - -
+cala_11-e_1 6 - - 0:main - - - -
+%imperative
+</sent_id>"
+"<sent_id=Tourism_005>
+#मुख्य स्नान 13 नवंबर को है ।
+muKya_19 1 - - 2:mod - - - -
+snAna_6 2 - - 6:k1 - def - -
+13 3 numex - - - - - 5:component
+navaMbara 4 - - - - - - 5:component
+[calendar_1] 5 moy - 6:k7t - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_006>
+#अशोक स्तंभ को सिंह स्तंभ के नाम से भी जाना जाता है ।
+aSoka 1 male - - - - - 14:begin
+swaMBa 2 - - - - - - 14:inside
+siMha_1 4 - - - - - - 15:mod
+swaMBa_2 5 - - - - - - 15:head
+[nc_1] 15 - - 7:r6 - - - -
+nAma_1 7 - - 10:k2s - BI_1 - -
+jA_17-wA_hE_1 10 - - 0:main - - - -
+[ne_1] 14 - - 10:k2 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_007>
+#गढ़ मुक्तेश्वर का नाम शिव बल्लभपुर पड़ा ।
+gaDZa 1 - - - - - - 3:begin
+mukwesvara 2 - - - - - - 3:inside
+[ne_1] 3 place - 5:r6 - - - -
+nAma_1 5 - - 9:k1 - - - -
+Siva 6 - - - - - - 8:begin
+ballaBapura 7 - - - - - - 8:inside
+[ne_2] 8 place - 9:k1s - - - -
+paDZa_26-yA_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_008>
+#अशोक स्तंभ के पास एक छोटा सा तालाब भी है ।
+aSoka 1 male - - - - - 12:begin
+swaMBa 2 - - - - - - 12:inside
+pAsa_1 4 - - 10:k7p - - - -
+eka_1 5 numex - 8:card - - - -
+CotA_1 6 - - 8:mod - sA_1 - -
+wAlAba_3 8 - - 10:k1 - BI_1 - -
+hE_1-pres 10 - - 0:main - - - -
+[ne_1] 12 - - 4:rdl - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_009>
+#शिव बल्लभपुर शिवजी को अति प्रिय है ।
+Siva 1 - - - - - - 3:begin
+ballaBapura 2 - - - - - - 3:inside
+[ne_1] 3 place - 7:k1 - - - -
+Siva 4 male - - - - - 5:begin
+[ne_2] 5 per - 7:k4a - respect - -
+awi_10 8 - - 9:intf - - - -
+priya_8 9 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_010>
+#शिव बल्लभपुर क्षेत्र मुझे काशी के समान प्रिय है ।
+Siva 1 - - - - - - 4:begin
+ballaBapura 2 - - - - - - 4:inside
+kRewra 3 - - - - - - 4:inside
+[ne_1] 4 place - 9:k1 - - - -
+$speaker 5 anim - 9:k4a - - - -
+kASI 6 - - - - - - 7:begin
+[ne_2] 7 place - 9:ru - - - -
+samAna_1 8 - - 9:krvn - - - -
+priya_8 9 - - 10:k1s - - - -
+hE_1-pres 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_011>
+#लेकिन धीरे-धीरे गंगा जी स्थान छोड़ती चली गईं ।
+XIre_5 1 - xviwva 7:krvn - - - -
+gaMgA 2 female - - - - - 3:begin
+[ne_1] 3 per - 7:k1 - respect - -
+sWAna_1 5 - - 7:k2 - - - -
+CodZa_8 6 - - 7:rvks - - - -
+cala_11-yA_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_012>
+#मेला स्थल कार आदि से आराम से पहुँचा जा सकता है ।
+melA_1 1 - - 2:mod - def - -
+sWala_12 2 - - 8:k2p - - - -
+kAra_1 3 - - 8:k3 - - - -
+Axi_15 4 - - 8:k3 - - - -
+ArAma_18 6 - - 8:krvn - - - -
+pahuMca_3-yA_jA_sakawA_hE_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_013>
+#लेकिन अब यातायात के कई साधन उपलब्ध हैं ।
+aba_1 10 - - 7:k7t - - - -
+yAwAyAwa_4 2 - - 5:r6 - - - -
+kaI_1 3 - - 5:quant - - - -
+sAXana_15 5 - pl 7:k1 - - - -
+upalabXa_1 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_014>
+#हस्तिनापुर का ऐतिहासिक महत्व है ।
+haswinApura 1 - - - - - - 3:begin
+[ne_1] 3 place - 6:r6 - def - -
+EwihAsika_1 4 - - 6:mod - - - -
+mahawva_1 6 - - 7:k1 - - - -
+hE_2-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_015>
+#कश्मीरी गेट से लगातार मेरठ तक की बसें जाती हैं ।
+kaSamIrI 1 - - - - - - 3:begin
+geta 2 - - - - - - 3:inside
+[ne_1] 3 place - 9:k5 - - - -
+lagAwAra_1 4 - - 9:krvn - - - -
+mIraTa 5 - - - - - - 6:begin
+[ne_2] 6 place - 9:k2p - - - -
+basa_7 7 - pl 9:k1 - - - -
+jA_1-wA_hE_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_016>
+#मेरठ से हस्तिनापुर की बसें मिल जाती हैं ।
+mIraTa 2 - - - - - - 3:begin
+[ne_1] 3 place - 8:k5 - - - -
+haswinApura 4 - - - - - - 5:begin
+[ne_2] 5 place - 7:r6 - - - -
+basa_7 7 - pl 8:k1 - - - -
+mila_9-wA_hE_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_017>
+#दिल्ली से हस्तिनापुर की दूरी तकरीबन 105 किलोमीटर है ।
+xillI 1 - - - - - - 3:begin
+[ne_1] 3 place - 8:k5 - - - -
+haswinApura 4 - - - - - - 5:begin
+[ne_2] 5 place - 7:r6 - - - -
+xUrI_1 7 - - 8:k1 - def - -
+105 10 numex - - - - - 12:count
+kilomItara_1 11 - - - - - - 12:unit
+[dist_meas_1] 12 - - 8:rmeas - wakarIbana_1 - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_018>
+#भगवान मल्लिनाथ का समवोशरन भी हस्तिनापुर में ही हुआ ।
+BagavAna 1 male - - - - - 3:begin
+mallinAWa 2 - - - - - - 3:inside
+[ne_1] 3 per - 8:r6 - def - -
+samavosaraNa 5 - - 10:k1 - - - 8:begin
+haswinApura 6 - - - - - - 7:begin
+[ne_2] 7 place - 10:k7p - hI_1 - -
+ho_11-yA_1 10 - - 0:main - - - -
+[ne_3] 8 - - 10:k1 - BI_1 - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_019>
+#लोगबाग दूर-दूर से उनके दर्शन के लिए जाते थे ।
+logabAga_1 1 - - 9:k1 - - - -
+XUra_11 2 - xviwva 9:k5 - - - -
+$wyax 3 male - 5:r6 Tourism_018.3:coref distal - -
+xarSana_23 5 - - 9:rt - - - -
+jA_1-wA_WA_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_020>
+#रामायण काल के परशुराम भी हस्तिनापुर में पैदा हुए ।
+rAmAyaNa 1 - - - - - - 4:mod
+kAla_3 2 - - - - - - 4:head
+[nc_1] 4 - - 6:r6 - def - -
+paraSurAma 5 male - - - - - 6:begin
+[ne_2] 6 per - 11:k1 - BI_1 - -
+haswinApura 7 - - - - - - 8:begin
+[ne_3] 8 place - 11:k7p - - - -
+pExA_1 9 - - - - - - 11:kriyAmUla
+ho_3-yA_1 10 - - - - - - 11:verbalizer
+[cp_1] 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_021>
+#बाहुबली ने पोदनपुर पर शासन किया ।
+bAhubalI 1 male - - - - - 2:begin
+[ne_1] 2 per - 7:k1 - - - -
+poxanapura 3 - - - - - - 4:begin
+[ne_2] 4 place - 7:k7 - - - -
+SAsana_3 5 - - - - - - 7:kriyAmUla
+kara_4-yA_1 6 - - - - - - 7:verbalizer
+[cp_1] 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_022>
+#जबकि उनके पुत्र सोमयश ने हस्तिनापुर पर शासन किया ।
+$wyax 1 anim - 3:r6 - distal - -
+puwra_1 3 anim - 7:k1 - - - -
+somayaSa 4 male - - - - - 5:begin
+[ne_1] 5 per - 7:k1s - - - -
+haswinApura 6 - - - - - - 9:begin
+[ne_2] 9 place - 7:k7 - - - -
+SAsana_3 10 - - - - - - 7:kriyAmUla
+kara_4-yA_1 8 - - - - - - 7:verbalizer
+[cp_1] 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_023>
+#श्रेयंषकुमार की स्मृति में रत्न स्तम्भ बनवाया था ।
+SreyaMRakumAra 1 male - - - - - 2:begin
+[ne_1] 2 per - 4:r6 - def - -
+smqwi_1 4 - - 8:k7 - - - -
+rawna 5 - - - - - - 9:begin
+swaMBa 6 - - - - - - 9:inside
+[ne_2] 9 - - 8:k2 - - - -
+bana_20-yA_WA_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_024>
+#यह अतिशय क्षेत्र कहलाता है ।
+$wyax 1 - - 5:dem - proximal - -
+awiSaya 2 - - - - - - 5:begin
+[ne_1] 5 - - 4:k1s - - - -
+kRewra 3 - - - - - - 5:inside
+kahalA_2-wA_hE_1 4 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_025>
+#अतिशय का अर्थ है सामान्य से बहुत ज्यादा ।
+awiSaya 2 - - - - - - 5:begin
+arWa_1 3 - - 4:k1 - def - -
+hE_1-pres 4 - - 0:main - - - -
+sAmAnya_2 9 - - 8:rv - - - -
+bahuwa_7 6 - - 8:intf - - - -
+jyAxA_3 8 - - 4:k1s - - - -
+[ne_1] 5 - - 3:r6 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_026>
+#बिहार का शांति स्तूप विश्व प्रसिद्ध है ।
+bihAra 1 - - - - - - 2:begin
+[ne_1] 2 place - 9:r6 - - - -
+SAMwi 3 - - - - - - 9:begin
+swUpa 4 - - - - - - 9:inside
+viSva_6 5 - - 6:mod - - - -
+prasixXa_1 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+[ne_2] 9 place - 7:k1 - def - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_027>
+#पर्यटक बरैला झील में नौका विहार का भी आनंद ले सकते हैं ।
+paryataka_1 1 - pl 10:k1 - - - -
+barElA 2 - - - - - - 14:begin
+JIla 3 - - - - - - 14:inside
+nOkA_1 5 - - - - - - 15:mod
+vihAra_7 6 - - - - - - 15:head
+AnaMxa_2 9 - - 10:k2 - - - -
+le_1-0_sakawA_hE_1 10 - - 0:main - - - -
+[ne_1] 14 place - 10:k7p - - - -
+[nc_1] 15 - - 9:r6 - BI_1 - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_028>
+#तिजारा में एक बड़ा हॉल है ।
+wijArA 1 - - - - - - 3:begin
+[ne_1] 3 place - 7:k7p - def - -
+eka_2 4 - - 6:quant - - - -
+badZA_1 5 - - 6:mod - - - -
+hAla_1 6 - - 7:k1 - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_029>
+#इसे मान-स्तंभ कहकर पुकारा जाता है ।
+$wyax 1 - - 6:k2 - - - -
+mAna 2 - - - - - - 4:begin
+swaMBa 3 - - - - - - 4:inside
+[ne_1] 4 - - 6:k2s - - - -
+pukAra_1-yA_jAwA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_030>
+#भगवान की मूर्तियों के दूर से ही दर्शन हो जाते हैं ।
+BagavAna_5 1 - pl 3:r6 - def - -
+mUrwi_2 3 - pl 8:r6 - def - -
+XUra_11 4 - - 11:k5 - hI_1 - -
+xarSana_24 8 - - 11:k1 - - - -
+ho_5-wA_hE_1 11 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_031>
+#इसे मान-स्तंभ कहा जाता है ।
+$wyax 1 - - 5:k2 - - - -
+mAna 2 - - - - - - 4:begin
+swaMBa 3 - - - - - - 4:inside
+[ne_1] 4 - - 5:k2s - - - -
+kaha_1-yA_jAwA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_032>
+#पर्यटक इसकी मोहक छटा में खो जाते हैं ।
+paryataka_1 1 - pl 8:k1 - - - -
+$wyax 2 - - 5:r6 - proximal - -
+mohaka_1 3 - - 5:mod - - - -
+CatA_4 5 - - 8:k7p - - - -
+Ko_1-yA_jAwA_hE_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_033>
+#बरैला झील का सबसे नजदीकी रेलवे स्टेशन हाजीपुर है ।
+barElA 1 - - - - - - 3:begin
+JIla_1 2 - - - - - - 3:inside
+[ne_2] 3 place - 11:r6 - - - -
+najaxIka_1 5 - superl 11:mod - def - -
+relave_1 6 - - - - - - 11:mod
+steSana_1 7 - - - - - - 11:head
+hAjIpura 8 - - - - - - 10:begin
+[ne_1] 10 place - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+[nc_1] 11 - - 9:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_034>
+#मैनें यह पाया ।
+$speaker 1 anim - 3:k1 - - - -
+$wyax 2 - - 3:k2 - proximal - -
+pA_13-yA_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_035>
+#पटना से टैक्सी के जरिए बरैला झील तक पहुँचा जा सकता है ।
+patanA 1 - - - - - - 2:begin
+[ne_2] 2 place - - - - - 15:start
+tEksI_1 3 - - 9:k3 - - - -
+barElA 6 - - - - - - 14:begin
+JIla_1 7 - - - - - - 14:inside
+pahuzca_1-0_sakawA_hE_1 9 - - 0:main - [shade:jA_1] - -
+[ne_1] 14 place - - - - - 15:end
+[span_1] 15 - - 9:k1s - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_036>
+#तीरथगढ़ रियासत के किसी राजा के दो पुत्र थे ।
+wIraWagaDZa 1 - - - - - - 3:begin
+riyAsawa 2 - - - - - - 3:inside
+[ne_1] 3 - - 6:r6 - - - -
+koI_10 4 - - 6:quant - - - -
+rAjA_1 6 anim - 10:r6 - - - -
+xo_1 7 - - 9:card - - - -
+puwra_1 9 anim pl 10:k1 - - - -
+hE_1-past 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_037>
+#एक राजकुमार चन्द्रदेव और दूसरा तीरथदेव ।
+eka_1 1 - - 5:card - - - -
+rAjakumAra_1 3 - - - - - - 5:begin
+caMxraxeva 4 - - - - - - 5:inside
+[ne_1] 5 per - - - def - 11:op1
+xUsarA_3 6 - - 8:dem - - - -
+wIraWaxeva 7 - - - - - - 8:begin
+[ne_2] 8 per - - - def - 11:op2
+[conj_1] 11 - - 10:k1 - - - -
+hE_1-pres 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_038>
+#राजकुमार चन्द्रदेव को विरासत में चन्द्रगिरी का क्षेत्र मिला ।
+rAjakumAra_1 1 - - 3:mod - - - -
+caMxraxeva 2 male - - - - - 3:begin
+[ne_1] 3 per - 10:k4 - - - -
+virAsawa_2 4 - - 10:k7 - - - -
+caMxragirI 5 - - - - - - 7:begin
+[ne_2] 7 place - 9:r6 - def - -
+kRewra_5 9 - - 10:k1 - - - -
+mila_22-yA_1 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_039>
+#उनके भाई को तीरथगढ़ की जागीर मिली ।
+$wyax 2 male - 4:r6 Tourism_038.3:coref - - -
+BAI_1 4 male - 8:k4 - - - -
+wIraWagaDZa 5 - - - - - - 6:begin
+[ne_1] 6 place - 7:r6 - def - -
+jAgIra_5 7 - - 8:k1 - - - -
+mila_22-yA_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_040>
+#वाल्मीकि नेशनल पार्क से नजदीकी रेलवे स्टेशन रक्सौल है ।
+vAlmIki 1 - - - - - - 4:begin
+neSanala 2 - - - - - - 4:inside
+pArka 3 - - - - - - 4:inside
+[ne_2] 4 - - 9:k5 - - - -
+najaxIka_1 5 - - 13:mod - def - -
+relave_1 6 - - - - - - 13:mod
+steSana_1 7 - - - - - - 13:head
+raksOla 8 - - - - - - 15:begin
+[ne_1] 15 place - 9:k1 - - - -
+hE_1-pres 9 - - 0:main - - - -
+[nc_1] 13 - - 9:k1s - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_041>
+#इस गुफा में छोटे-छोटे पोखर स्थित हैं ।
+$wyax 1 - - 2:dem - proximal - -
+guPA_1 2 - - 7:k7p - - - -
+CotA_1 3 - xviwva 5:mod - - - -
+poKarA_2 5 - pl 7:k1 - - - -
+sWiwa_2 7 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_042>
+#अब ये मछलियाँ जन्म से ही अंधी पैदा होती हैं ।
+aba_1 10 - - 9:k7t - - - -
+$wyax 2 - pl 3:dem - proximal - -
+maCalI_1 3 - pl 9:k1 - - - -
+janma_1 4 - - 9:k5 - hI_1 - -
+anXA_1 5 - - 9:k1s - - - -
+pExA_1 6 - - - - - - 9:kriyAmUla
+ho_4-wA_hE_1 8 - - - - - - 9:verbalizer
+[cp_1] 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_043>
+#यह डार्विन के सिद्धांत की पुष्टि करती है ।
+$wyax 1 - - 9:k1 - proximal - -
+dAravina 3 male - - - - - 4:begin
+[ne_1] 4 per - 6:r6 - - - -
+sixXAMwa_1 6 - pl 8:r6 - def - -
+pUrwi_20 8 - - - - - - 10:kriyAmula
+kara_2-wA_hE_1 9 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_044>
+#चूना पत्थर की आकृतियाँ शिवलिंग के समान जान पड़ती हैं ।
+cUnA_1 1 - - 2:mod - - - -
+pawWara_1 2 - - 4:r6 - - - -
+Akqwi_1 4 - pl 8:k1 - def - -
+SivaliMga 5 - - - - - - 6:begin
+[ne_1] 6 - - 8:ru - - - -
+samAna_1 7 - - 8:krvn - - - -
+jAna_19-wA_hE_1 8 - - 0:main - [shade:padZa_1] - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_045>
+#इस गुफा का धार्मिक महत्व भी है ।
+$wyax 2 - - 3:dem - proximal - -
+guPA_1 3 - - 6:r6 - - - -
+XArmika_1 4 - - 6:mod - - - -
+mahawva_1 6 - - 7:k1 - BI_1 - -
+hE_2-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_046>
+#दूर-दूर तक पर्वत मालाएँ फैली हैं ।
+xUra_5 1 - xviwva 5:k2p - - - -
+parvawa_1 2 - - - - - - 6:mod
+mAlA_9 3 - - - - - - 6:head
+[nc_1] 6 - pl 5:k1 - - - -
+PElA_1 4 - - 6:rbks - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_047>
+#बस्तर की वास्तविक सीमा यहीं से शुरू होती है ।
+baswara 1 - - - - - - 2:begin
+[ne_1] 2 place - 5:r6 - def - -
+vAswavika_2 3 - - 5:mod - - - -
+sImA_1 5 - - 9:k1 - def - -
+$wyax 6 - - 9:k5 - proximal - -
+SurU_3 7 - - - - - - 9:kriyAmUla
+ho_2-wA_hE_1 8 - - - - - - 9:verbalizer
+[cp_1] 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_048>
+#बारसूर गीदम से 22 किलोमीटर की दूरी पर स्थित है ।
+bArasUra 1 - - - - - - 3:begin
+[ne_1] 3 place - 11:k1 - - - -
+gIxama 4 - - - - - - 5:begin
+[ne_2] 5 place - 11:k5 - - - -
+22 6 numex - - - - - 8:count
+kilomItara_1 7 - - - - - - 8:unit
+[dist_meas_1] 8 - - 10:r6 - - - -
+xUra_1 10 - - 11:k7p - - - -
+sWiwa_1 9 - - 11:k1s - - - -
+hE_1-pres 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_049>
+#यहाँ गणेश जी की विशाल मूर्ति है ।
+$wyax 1 - - 7:k7p - distal - -
+gaNeSa 2 male - - - - - 4:begin
+[ne_1] 4 per - 6:r6 - respect - -
+viSAla_1 5 - - 6:mod - - - -
+mUrwi_2 6 - - 7:k1 - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_050>
+#मामा-भांजा मंदिर दो गर्भगृह युक्त मंदिर है ।
+mAmA 1 - - - - - - 4:begin
+BAMjA 2 - - - - - - 4:inside
+maMxira 3 - - - - - - 4:inside
+[ne_1] 4 place - 10:k1 - def - -
+xo_1 5 - - 7:card - - - -
+garBagqha_2 7 - pl 9:mod - - - -
+yukwa_15 8 - - 9:mod - - - -
+maMxira_1 9 - - 10:k1s - - - -
+hE_1-pres 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_051>
+#मामा-भांजा मंदिर के मंडप आपस में जुड़े हुये हैं ।
+mAmA 1 - - - - - - 4:begin
+BAMjA 2 - - - - - - 4:inside
+maMxira 3 - - - - - - 4:inside
+[ne_1] 4 place - 6:r6 - - - -
+maMdapa_1 6 - pl 10:k1 - def - -
+Apasa_2 7 - - 10:k7p - - - -
+judZa_9 8 - - 10:rbks - - - -
+hE_2-pres 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=tourism_052>
+#ye maMxira ArkiyolAjI viBAga dvArA saMrakRiwa smAraka hEM .
+$wyax 1 - pl 2:dem - proximal - -
+maMxira_1 2 - pl 8:k1 - - - -
+ArkiyolAjI 3 - - - - - - 5:begin
+viBAga_1 4 - - - - - - 5:inside
+[ne_1] 5 org - 8:pk1 - def - -
+saMrakRiwa_2 6 - - 7:mod - - - -
+smAraka_1 7 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_053>
+#गुण्डमहादेवी का पुत्र सोमेश्वर देव एक प्रतापी राजा था ।
+guMdamahAxevI 1 female - - - - - 2:begin
+[ne_1] 2 per - 4:r6 - - - -
+puwra_1 4 anim - 11:k1 - - - -
+somesvara 5 male - - - - - 7:begin
+xeva 6 male - - - - - 7:inside
+[ne_2] 7 per - 11:k1s - def - -
+eka_2 8 - - 10:quant - - - -
+prawApI_4 9 - - 10:mod - - - -
+rAjA_1 10 anim - 11:k1s - - - -
+hE_1-past 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_054>
+#दंतेश्वरी देवी बस्तर के रहवासियों की आस्था का प्रतीक है ।
+xaMwesSvarI 1 female - - - - - 3:begin
+xevI 2 - - - - - - 3:inside
+[ne_1] 3 per - 12:k1 - - - -
+baswara 4 - - - - - - 5:begin
+[ne_2] 5 place - 7:r6 - - - -
+rahavAsI_3 7 - pl 9:r6 - def - -
+AsWA_1 9 - - 11:r6 - - - -
+prawIka_1 11 - - 12:k1s - - - -
+hE_1-pres 12 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_055>
+#दशहरे के समय देश-विदेश के पर्यटक बस्तर आते है ।
+xaSaharA 1 - - - - - - 4:begin
+[ne_2] 4 - - 8:k7t - - - -
+xeSa_1 2 - - - - - - 5:op1
+vixeSa_3 3 - - - - - - 5:op2
+[xvanxva_1] 5 - - 7:r6 - - - -
+paryataka_1 7 - pl 8:k1 - - - -
+baswara 9 - - - - - - 10:begin
+[ne_1] 10 place - 8:k2p - def - -
+A_1-wA_hE_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_056>
+#रांची में प्रमुख धर्मशालाएँ ।
+rAMcI 1 - - - - - - 2:begin
+[ne_1] 2 place - 5:k7p - - - -
+pramuKa_13 3 - - 6:mod - - - -
+XarmaSAlA_1 4 - - - - - - 6:begin
+hE_1-pres 5 - - 0:main - - - -
+[ne_2] 6 - pl 5:k1s - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_057>
+#बैलाडीला में गेस्ट हाऊस में रुका जा सकता है ।
+bElAdIlA 1 - - - - - - 2:begin
+[ne_1] 2 place - - - - - 7:whole
+gesata 3 - - - - - - 5:mod
+hAusa 4 - - - - - - 5:head
+[nc_2] 5 - - - - def - 7:part
+ruka_3-yA_jA_sakawA_hE_1 6 - - 0:main - - - -
+[spatial_1] 7 - - 6:k7p - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_058>
+#बचेली का अयस्क अच्छे ग्रेड का माना जाता है ।
+bacelI 1 - - - - - - 2:begin
+[ne_1] 2 place - 4:r6 - def - -
+ayaska_1 4 - pl 8:k1 - - - -
+acCA_1 5 - - 7:mod - - - -
+greda_1 7 - - 8:r6 - - - -
+mAna_1-yA_jAwA_hE_1 8 - - 0:main - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=Tourism_59>
+#हुंडरू फॉल रांची से 40 किलोमीटर दूर है ।
+huMdarU 1 - - - - - - 10:begin
+POYla 2 - - - - - - 10:inside
+rAMcI 3 - - - - - - 4:begin
+[ne_2] 4 place - 8:k5 - - - -
+40 5 - - - - - - 11:count
+kilomItara_1 6 - pl - - - - 11:unit
+xUra_1 7 - - 11:k7p - - - -
+hE_1-pres 8 - - 0:main - - - -
+[ne_1] 10 place - 8:k1 - - - -
+[dist_meas_1] 11 - - 8:rmeas - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_060>
+#ताड़ी के रसभरे फलों को खाना अच्छा लगता है ।
+wAdZa_1 1 - - 4:r6 - - - -
+rasaBare_1 2 - - 4:mod - - - -
+Pala_1 4 - pl 6:k2 - - - -
+KA_1 6 - - 8:k2 - - - -
+acCA_1 7 - - - - - - 8:kriyAmUla
+laga_22-wA_hE_1 10 - - - - - - 8:verbalizer
+[cp_1] 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_061>
+#के.के. लाइन की लम्बाई 50 से 900 मीटर तक है ।
+@ke.ke. 1 - - - - - - 3:begin
+lAina 2 - - - - - - 3:inside
+[ne_1] 3 - - 5:r6 - def - -
+laMbAI_1 5 - - 11:k1 - def - -
+50 6 numex - - - - - 10:start
+900 7 numex - - - - - 10:end
+mItara_1 8 - - - - - - 10:unit
+[span_1] 10 - - 11:k1s - - - -
+hE_1-pres 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_062>
+#प्रपात को नीचे से उतरकर देखना अच्छा लगता है ।
+prapAwa_2 1 - - 8:k2 - - - -
+nIce_5 2 - - 3:k5 - - - -
+uwara_7 3 - - 6:rpk - - - -
+xeKa_1 6 - - 8:k2 - - - -
+acCA_1 7 - - - - - - 8:kriyAmUla
+laga_22-wA_hE_1 10 - - - - - - 8:verbalizer
+[cp_1] 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_063>
+#यहाँ बच्चों के लिये बाल उद्यान एवं रेलगाड़ी की व्यवस्था है ।
+$wyax 1 - - 11:k7p - proximal - -
+baccA_1 2 - pl 11:rt - - - -
+bAla_2 3 - - - - - - 10:mod
+uxyAna_1 4 - - - - - - 10:head
+[nc_1] 10 - - - - - - 7:op1
+relagAdZI_1 5 - - - - - - 7:op2
+[conj_1] 7 - - 9:r6 - - - -
+vyavasWA_19 9 - - 11:k1 - - - -
+hE_1-pres 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_064>
+#सुन्दर लॉन एवं पुष्प उद्यान पर्यटकों का मन मोह लेते हैं ।
+suMxara_1 1 - - - - - - 5:mod
+loYna_1 2 - - - - - - 5:head
+[nc_1] 5 - - - - - - 7:op1
+puRpa_1 3 - - - - - - 6:mod
+uxyAna_1 4 - - - - - - 6:head
+[nc_2] 6 - - - - - - 7:op2
+[conj_1] 7 - - 12:k1 - - - -
+paryataka_1 8 - pl 10:r6 - - - -
+mana_12 10 - - 12:k2 - - - -
+moha_19-wA_hE_1 12 - - 0:main - [shade:le_1] - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_065>
+#प्रातः एवं सांयकालीन भ्रमण के लिये यह उपयुक्त स्थान है ।
+prAwaH_1 1 - - - - - - 5:op1
+sAyaMkAla_2 2 - - - - - - 5:op2
+BramaNa_1 4 - - 9:rt - - - -
+[conj_1] 5 - - 4:k7t - - - -
+$wyax 6 - - 7:dem - proximal - -
+upayukwa_2 7 - - 8:mod - - - -
+sWAna_1 8 - - 9:k1 - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_066>
+#आइलैण्ड में लगी पवन चक्की भी आकर्षित करती है ।
+AilEMda 1 - - - - - - 2:begin
+[ne_1] 2 place - 17:k7p - def - -
+lagA_9 3 - - 17:rbks - - - -
+pavana_3 4 - - - - - - 5:mod
+cakkI_2 6 - - - - - - 5:head
+[nc_1] 5 - - 17:k1 - BI_1 - -
+AkarRiwa_1 8 - - - - - - 17:kriyAmUla
+kara_2-wA_hE_1 9 - - - - - - 17:verbalizer
+[cp_1] 17 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_067>
+#केरल प्रांत पर्यटकों में बेहद लोकप्रिय है ।
+kerala 1 - - - - - - 3:begin
+prAMwa_6 2 - - 7:k1 - - - -
+[ne_1] 3 place - 2:mod - def - -
+paryataka_1 4 - pl 7:rn - - - -
+behaxa_6 5 - - 6:intf - - - -
+lokapriya_1 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_068>
+#केरल में अनेक प्रकार के दर्शनीय स्थल हैं ।
+kerala 1 - - - - - - 2:begin
+[ne_1] 2 place - 8:k7p - def - -
+aneka_3 3 - - 4:quant - - - -
+prakAra_7 4 - pl 7:r6 - - - -
+xarSanIya_6 6 - - 7:mod - - - -
+sWala_2 7 - pl 8:k1 - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_069>
+#दमन और दीव में बहुत छोटे-छोटे द्वीप हैं ।
+xamana 1 - - - - - - 3:begin
+[ne_1] 3 place - - - - - 4:op1
+xiyu 2 - - - - - - 6:begin
+[ne_2] 6 place - - - - - 4:op2
+[conj_1] 4 place - 9:k7p - - - -
+bahuwa_8 5 - - 7:intf - - - -
+CotA_1 7 - xviwva 8:mod - - - -
+xvIpa_1 8 - pl 9:k1 - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_070>
+#दीव गुजरात के जूनागढ़ जिले से जुड़ा है ।
+xIva 1 - - - - - - 2:begin
+[ne_1] 2 place - 8:k1 - def - -
+gujarAwa 3 - - - - - - 4:begin
+[ne_2] 4 place - 7:r6 - def - -
+jUnAgaDZa 5 - - - - - - 6:begin
+[ne_3] 6 place - 7:mod - def - -
+jilA_3 7 - - 8:k2s - - - -
+judZa_10 9 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_071>
+#नानी दमन का मुख्य आकर्षण संत जैरोम का किला है ।
+nAnI 1 - - - - - - 3:begin
+xamana 2 - - - - - - 3:inside
+[ne_1] 3 place - 6:r6 - def - -
+muKya_18 4 - - 6:mod - - - -
+AkarRaNa_1 6 - - 11:k1 - def - -
+saMwa 7 - - - - - - 9:begin
+jEroma 8 - - - - - - 9:inside
+[ne_2] 9 per - 11:r6 - def - -
+kilA_1 11 - - 12:k1s - - - -
+hE_1-pres 12 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_072>
+#देविका बीच दमन से पाँच किमी उत्तर में है ।
+xevikA 1 - - - - - - 11:begin
+bIca_10 2 - - - - - - 11:inside
+[ne_1] 11 place - 10:k1 - def - -
+xamana 4 - - - - - - 5:begin
+[ne_2] 5 place - 10:k5 - def - -
+5 6 numex - - - - - 8:count
+kimI_1 7 - - - - - - 8:unit
+[dist_meas_1] 8 - - 9:rmeas - - - -
+uwwara_3 9 - - 10:k7p - - - -
+hE_1-pres 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_073>
+#जैमपोरे बीच का शांत वातावरण प्रेमियों को खींच लाता है ।
+jEmpore 1 - - - - - - 3:begin
+bIca_10 2 - - - - - - 3:inside
+[ne_1] 3 place - 7:r6 - def - -
+SAMwa_2 4 - - 7:mod - - - -
+vAwAvaraNa_2 7 - - 11:k1 - def - -
+premI_1 8 - pl 11:k2 - - - -
+KIMca_2 9 - - - - - - 11:kriyAmUla
+le_2-wA_hE_1 10 - - - - - - 11:verbalizer
+[cp_1] 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_074>
+#तैराकी के लिए भी जैमपोरे बीच बहुत अच्छा स्थान है ।
+wErAkI_1 1 - - 9:rt - BI_1 - -
+jEmpore 2 - - - - - - 4:begin
+bIca_10 3 - - - - - - 4:inside
+[ne_1] 4 place - 9:k1 - - - -
+bahuwa_7 5 - - 8:intf - - - -
+acCA_1 7 - - 8:mod - - - -
+sWAna_1 8 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_075>
+#क्या है दीव में ।
+$kim 1 - - 2:k1 - - - -
+hE_1-pres 2 - - 0:main - - - -
+xIva_6 3 - - - - - - 4:begin
+[ne_1] 4 place - 2:k7p - def - -
+%interrogative
+</sent_id>"
+"<sent_id=Tourism_076>
+#चौबटिया एक बगीचा है ।
+cObatiyA 1 - - - - - - 5:begin
+[ne_1] 5 place - 4:k1 - - - -
+eka_2 2 - - 3:quant - - - -
+bagIcA_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_077>
+#चक्रतीर्थ बीच हरियाली के सौंदर्य से भरपूर है ।
+cakrawIrWa 1 - - - - - - 3:begin
+bIca 2 - - - - - - 3:inside
+[ne_1] 3 place - 8:k1 - def - -
+hariyAlI_1 4 - - 6:r6 - - - -
+sOnxarya_1 6 - - 8:k3 - - - -
+BarapUra_1 7 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_078>
+#कब जाएँ दमन और दीव ?
+$kim 1 - - 2:k7t - - - -
+jA_1-e_1 2 - - 0:main - - - -
+xamana 3 - - - - - - 5:begin
+[ne_1] 5 place - - - - - 6:op1
+xiyu 4 - - - - - - 7:begin
+[ne_2] 7 place - - - - - 6:op1
+[conj_1] 6 place - 2:k2p - - - -
+%interrogative
+</sent_id>"
+"<sent_id=Tourism_079>
+#कैसे पहुँचें दमन और दीव ?
+$kim 1 - - 2:krvn - - - -
+pahuMca_2-e_1 2 - - 0:main - - - -
+xamana 3 - - - - - - 8:begin
+[ne_1] 8 place - - - - - 6:op1
+xiyu 4 - - - - - - 5:begin
+[ne_2] 5 place - - - - - 6:op2
+[conj_1] 6 place - 2:k2p - - - -
+%interrogative
+</sent_id>"
+"<sent_id=Tourism_080>
+#दमन और दीव दोनों एयरपोर्ट से जुड़े हैं ।
+xamana 1 - - - - - - 8:begin
+[ne_1] 8 place - - - - - 4:op1
+xiyu 2 - - - - - - 3:begin
+[ne_2] 3 place - - - - - 4:op2
+[conj_1] 4 place - 9:k1 - - - -
+xono_1 5 - - 6:quant - - - -
+eyaraport_1 6 - - 9:k3 - - - -
+judZa_11 7 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_081>
+#चौबटिया के पास ही एक जलप्रपात है ।
+cObatiyA 1 - - 3:rdl - - - -
+pAsa_1 3 - - 7:k7p - hI_1 - -
+eka_1 5 numex - 6:card - - - -
+jalaprapAwa_1 6 - - 7:k1 - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_082>
+#कालिका माता मंदिर मूलतः एक सूर्य मंदिर था ।
+kAlikA 1 - - - - - - 4:begin
+mAwA 2 - - - - - - 4:inside
+maMxira_1 3 - - - - - - 4:inside
+[ne_1] 4 place - 10:k1 - def - -
+mUlawaH_1 5 - - 10:krvn - - - -
+eka_2 6 - - 10:quant - - - -
+sUrya_1 7 - - - - - - 8:mod
+maMxira_1 9 - - - - - - 8:head
+[nc_1] 8 - - 10:k1s - - - -
+hE_1-past 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_083>
+#मंदिर का शिखर पूर्णतः नवीन रचना है ।
+maMxira_1 1 - - 3:r6 - def - -
+SiKara_2 3 - - 7:k1 - - - -
+pUrNawaH_1 4 - - 7:krvn - - - -
+navIna_1 5 - - 6:mod - - - -
+racanA_5 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_084>
+#मूलतः मंदिर एक विशाल जगती पर बना था ।
+mUlawaH_1 1 - - 9:krvn - - - -
+maMxira_1 2 - - 9:k1 - def - -
+eka_2 3 - - 8:quant - - - -
+viSAla_12 4 - - 5:mod - - - -
+jagawI_3 5 - - 9:k7p - - - -
+bana_19 8 - - 9:rbks - - - -
+hE_1-past 9 - - 0:main - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=Tourism_085>
+#कुंभस्वामी या कुंभश्याम मंदिर मूलतः वैष्णव मंदिर था ।
+kuMBasvAmI 1 - - - - - - 3:begin
+[ne_2] 3 - - - - - - 5:op1
+kuMBaSyAma 2 - - - - - - 4:begin
+[ne_3] 4 - - - - - - 5:op2
+[disjunct_1] 5 - - 7:mod - - - -
+maMxira_1 7 - - 12:k1 - def - -
+mUlawaH_2 8 - - 12:krvn - - - -
+vERNava 10 - - - - - - 13:begin
+[ne_1] 13 - - 11:mod - - - -
+maMxira_1 11 - - 12:k1s - - - -
+hE_1-past 12 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_086>
+#शिमला पर्यटकों के लिए एक अद्भुत अनुभव प्रदान करता है ।
+SimalA 1 - - - - - - 2:begin
+[ne_1] 2 place - 10:k1 - - - -
+paryataka_1 3 - pl 10:rt - - - -
+eka_2 4 - - 7:quant - - - -
+axBuwa_12 5 - - 7:mod - - - -
+anuBava_1 7 - - 10:k2 - - - -
+praxAna_11 8 - - - - - - 10:kriyAmUla
+kara_6-wA_hE_1 9 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_087>
+#पालोड तिरुवनन्तपुरम से 35 कि.मी. दूर है ।
+pAlodZa 1 - - - - - - 2:begin
+[ne_1] 2 place - 9:k1 - def - -
+wiruvanaMwapurama 3 - - - - - - 4:begin
+[ne_2] 4 place - 9:k5 - def - -
+35 5 numex - - - - - 7:count
+kimI_1 6 - - - - - - 7:unit
+[dist_meas_1] 7 - - 9:rmeas - - - -
+xUra_1 8 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_088>
+#पालोड से पेरिंगम्मला पहुँच सकते हैं ।
+pAlodZa 1 - - - - - - 2:begin
+[ne_1] 2 place - 6:k5 - def - -
+periMgammalA 3 - - - - - - 4:begin
+[ne_2] 4 place - 6:k2p - def - -
+pahuMca_2-0_sakawA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_089>
+#अंचुतेंगु का समुद्रतट भी अत्यंत सुन्दर है ।
+aMcuweMgu 1 - - - - - - 2:begin
+[ne_1] 2 place - 4:r6 - def - -
+samuxrawata_3 4 - - 8:k1 - BI_1 - -
+awyaMwa_5 5 - - 7:intf - - - -
+suMxara_1 7 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_090>
+#अंचुतेंगु मछुआरों का प्रमुख केन्द्र भी है ।
+aMcuweMgu 1 - - - - - - 2:begin
+[ne_1] 2 place - 7:k1 - def - -
+maCuArA_2 3 - pl 6:r6 - - - -
+pramuKa_6 4 - - 6:mod - - - -
+keMxra_1 6 - - 7:k1s - BI_1 - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_091>
+#आक्कुलम झील नौकारोहण की दृष्टि से महत्त्वपूर्ण है ।
+Akkulama 1 - - - - - - 3:begin
+JIla 2 - - - - - - 3:inside
+[ne_1] 3 place - 9:k1 - def - -
+nOkArohaNa_1 4 - - 6:r6 - - - -
+xqRti_2 6 - - 9:k7a - - - -
+mahawwavapUrNa_1 7 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_092>
+#चित्तारि का तटीय भाग विशाल है ।
+ciwwAri 1 - - - - - - 2:begin
+[ne_1] 2 place - 5:r6 - def - -
+watIya_1 3 - - 5:mod - - - -
+BAga_23 5 - - 6:k1 - - - -
+viSAla_2 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_093>
+#चित्तारि हरियाली से ढंका एक छोटा द्वीप है ।
+ciwwAri 1 - - - - - - 2:begin
+[ne_1] 2 place - 9:k1 - def - -
+hariyAlI_1 3 - - 9:k3 - - - -
+DaMka_1 4 - - 9:rbks - - - -
+eka_2 5 - - 8:quant - - - -
+CotA_1 6 - - 8:mod - - - -
+xvIpa_1 8 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_094>
+#यहाँ एक बालक अकस्मात प्रकट हुआ ।
+$wyax 1 - - 7:k7p - proximal - -
+eka_2 2 - - 3:quant - - - -
+bAlaka_1 3 anim - 7:k1 - - - -
+akasmAwa_2 4 - - 7:krvn - - - -
+prakata_13 5 - - - - - - 7:kriyAmUla
+ho_1-yA_1 6 - - - - - - 7:verbalizer
+[cp_1] 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_095>
+#तलश्शेरी में एक रेलवे स्टेशन है ।
+walaSSeri 1 - - - - - - 2:begin
+[ne_1] 2 place - 7:k7p - def - -
+eka_2 3 - - 6:quant - - - -
+relave_1 4 - - - - - - 6:mod
+steSana_1 5 - - - - - - 6:head
+[nc_1] 6 - - 7:k1 - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_96>
+#सप्तपुरियों के दर्शन से मिलता है मोक्ष !
+sapwapuriyoM 1 - - - - - - 2:begin
+[ne_1] 2 place - 3:r6 - - - -
+xarSana_23 3 - - 5:k5 - - - -
+mila_22-wA_hE_1 5 - - 0:main - - - -
+mokRa_1 7 - - 5:k1 - - - -
+%imperative
+</sent_id>"
+"<sent_id=Tourism_097>
+#हिंदू धर्म में तीर्थ का बड़ा महत्व है ।
+hiMxuI_3 1 - - 2:mod - - - -
+Xarma_1 2 - - 7:k7p - - - -
+wIrWa_1 3 - - 6:r6 - - - -
+bAdZA_27 4 - - 6:mod - - - -
+mahawva_1 6 - - 7:k1 - def - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_098>
+#इसका नाम बनारस या वाराणसी भी है ।
+$wyax 1 - - 3:dem - - - -
+nAma_1 3 - - 8:k1 - - - -
+banArasa 4 - - - - - - 6:begin
+[ne_1] 6 - - - - - - 7:op1
+[ne_2] 9 - - - - - - 7:op2
+vArANasI 5 - - - - - - 9:begin
+[disjunct_1] 7 place - 8:k1s - BI_1 - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_099>
+#खड़ी बाजार रानीखेत का मुख्य बाजार है ।
+KadZI 1 - - - - - - 4:begin
+bAjAra 2 - - - - - - 4:inside
+[ne_1] 4 place - 7:k1 - - - -
+rAnIKewa 3 - - - - - - 8:begin
+[ne_1] 8 place - 6:r6 - - - -
+muKya_15 5 - - 6:mod - - - -
+bAjAra_1 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_100>
+#लक्सर से एक लाइन हरिद्वार तक गई है ।
+laksara 1 - - - - - - 12:begin
+[ne_1] 12 place - - - - - 10:start
+eka_2 3 - - 4:quant - - - -
+lAina_1 4 - - 7:k1 - - - -
+harixvAra 5 - - - - - - 11:begin
+[ne_2] 11 place - - - - - 10:end
+jA_1-yA_hE_1 7 - - 0:main - - - -
+[span_1] 10 - - 7:k2p - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_101>
+#जाखू चोटी शिमला की सब से ऊँची पर्वतचोटी है ।
+jAKU 1 - - - - - - 11:begin
+cotI_10 2 - - - - - - 11:inside
+SimalA 3 - - - - - - 12:begin
+UzcA_1 7 - superl 8:mod - - - -
+parvawacotI_1 8 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+[ne_1] 11 place - 9:k1 - - - -
+[ne_2] 12 place - 8:r6 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_102>
+#चैल महल को 1972 में सरकारी संपत्ति घोषित किया गया ।
+cEla 1 - - - - - - 3:begin
+mahala 2 male - - - - - 3:inside
+[ne_1] 3 place - 12:k2 - - - -
+1972 4 yoc - 12:k7t - - - -
+sarakArI_2 6 - - 7:mod - - - -
+saMpawwi_1 7 - - 9:k2s - - - -
+GoRiwa 8 - - - - - - 12:kriyAmUla
+kara_1-yA_gayA_1 9 - - - - - - 12:verbalizer
+[cp_1] 12 - - 0:main - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=Tourism_103>
+#शिमला का वन्यजीव अभ्यारण्य देखने योग्य है ।
+SimalA 1 - - - - - - 9:begin
+vanyajIva_1 3 - - - - - - 10:mod
+aByAraNya_1 4 - - - - - - 10:head
+xeKa_21 5 - - 7:rt - - - -
+yogya_6 8 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+[ne_1] 9 place - 10:r6 - - - -
+[nc_1] 10 - - 5:k2 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_104>
+#कोनीफर्स में पर्यटक रुकना चाहें तो रुक भी सकते हैं ।
+konIParsa 1 - - - - - - 2:begin
+[ne_1] 2 place - 7:k7p - - - -
+paryataka_1 3 - pl 7:k1 - - - -
+ruka_3 4 - - 5:k2 - - - -
+cAha_1 5 - - 7:vmod - - - -
+ruka_3-0_sakawA_hE_1 7 - - 0:main - BI_1 - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_105>
+#कोनीफर्स में एचपीडीसी के रेस्तराँ और होटल हैं ।
+konIParsa 1 - - - - - - 2:begin
+[ne_1] 2 place - 8:k7p - - - -
+ecapIdIsI 3 - - - - - - 4:begin
+[ne_2] 4 - - 5:r6 - - - -
+reswarAz_1 5 - - - - - - 10:op1
+hotala_1 7 - - - - - - 10:op2
+hE_1-pres 8 - - 0:main - - - -
+[conj_1] 10 - - 8:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_106>
+#गर्मियों में ठंडी सड़क सब को लुभाती है ।
+garmI_4 1 - pl 7:k7p - - - -
+TaMdA_1 3 - - 4:mod - - - -
+sadZaka_1 4 - - 7:k1 - - - -
+saba_4 5 - - 7:k2 - - - -
+luBA_7-wA_hE_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_107>
+#पंजपुला एक सैरगाह है ।
+paMjapulA 1 - - - - - - 5:begin
+[ne_1] 5 place - 4:k1 - - - -
+eka_2 2 numex - 3:card - - - -
+sEragAha_2 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_108>
+#डलहौजी में शहीद भगत सिंह के चाचा की समाधि भी है ।
+dalahOjI 1 - - - - - - 2:begin
+[ne_2] 2 place - 11:k7p - - - -
+SahIxa_1 3 - - 13:mod - - - -
+Bagawa 4 male - - - - - 13:begin
+siMha 5 male - - - - - 13:inside
+cAcA_2 7 - - 9:r6 - - - -
+samAXi_2 9 - - 11:k1 - BI_1 - -
+hE_1-pres 11 - - 0:main - - - -
+[ne_1] 13 per - 7:r6 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_109>
+#आज चश्मे में से एक धारा निकलती है ।
+Aja_1 1 - - 7:k7t - - - -
+caSma_6 2 - pl 7:k5 - - - -
+eka_1 5 numex - 6:card - - - -
+XArA_1 6 - - 7:k1 - - - -
+nikala_1-wA_hE_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_110>
+#यह स्थल ' म्यूजिकल पीक ' भी कहलाता है ।
+$wyax 1 - - 2:dem Tourism_109.2:coref proximal - -
+sWala_2 2 - - 8:k2 - - - -
+myUjikala_1 4 - - - - - - 12:mod
+pIka_1 5 - - - - - - 12:head
+kahalA_2-wA_hE_1 8 - - 0:main - - - -
+[nc_1] 12 - - 8:k2s - BI_1 - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_111>
+#कालाटोप गांधी चौक से 8 किलोमीटर दूर है ।
+kAlAtopa 1 - - - - - - 10:begin
+gAMXI 2 - - - - - - 11:begin
+cOka 3 - - - - - - 11:inside
+8 5 - - - - - - 12:count
+kilomItara_1 6 - - - - - - 12:unit
+xUra_1 7 - - 12:k7p - - - -
+hE_1-pres 8 - - 0:main - - - -
+[ne_1] 10 place - 8:k1 - - - -
+[ne_2] 11 place - 8:k5 - - - -
+[dist_meas_1] 12 - - 8:rmeas - - - -
+%affirmative
+</sent_id>"
+"<sent_id=tourism_112>
+#agaswa ke bAxa garma kapadZe sAWa raKeM .
+agaswa_1 1 moy - 3:r6 - - - -
+bAxa_1 3 - - 7:rkl - - - -
+garma_1 4 - - 5:mod - - - -
+kapadZA_1 5 - pl 7:k2 - - - -
+sAWa_1 6 - - 7:k2as - - - -
+raKa_3-e_1 7 - - 0:main - - - -
+%imperative
+</sent_id>"
+"<sent_id=Tourism_113>
+#सामान्य स्वेटर व शाल हर मौसम में चाहिए ।
+sAmAnya_12 1 - - 10:mod - - - -
+svetara_1 2 - - - - - - 10:op1
+SAla_1 4 - - - - - - 10:op2
+hara_7 5 - - 6:quant - - - -
+mOsama_1 6 - - 8:k7p - - - -
+cAha_17-e_1 8 - - 0:main - - - -
+[conj_1] 10 - - 8:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_114>
+#चंबा के रुमाल प्रसिद्ध हैं ।
+caMbA 1 - - - - - - 2:begin
+[ne_1] 2 place - 3:r6 - - - -
+rUmAla_1 3 - pl 5:k1 - - - -
+prasixXa_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_115>
+#खजियार डलहौजी से 22 किलोमीटर दूर है ।
+KajiyAra 1 - - - - - - 3:begin
+[ne_1] 3 place - 7:k1 - - - -
+dalahOjI 2 - - - - - - 8:begin
+[ne_2] 8 place - 7:k5 - - - -
+22 4 - - - - - - 9:count
+kilomItara_1 5 - - - - - - 9:unit
+xUra_1 6 - - 9:k7p - - - -
+hE_1-pres 7 - - 0:main - - - -
+[dist_meas_1] 9 - - 7:rmeas - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_116>
+#ट्रैकिंग के लिए पिंडारी ग्लेशियर बहुत ही सुंदर है ।
+trekiMga_1 1 - - 9:rt - - - -
+piMdArI 4 - - - - - - 3:mod
+gleSiyara_1 5 - - - - - - 3:head
+[nc_1] 3 - - 9:k1 - - - -
+bahuwa_7 6 - - 8:intf - hI_1 - -
+suMxara_1 8 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_117>
+#KajiyAra ko himAlaya kA svitjaralEMda kahA jAtA hai .
+KajiyAra 1 - - - - - - 4:begin
+[ne_1] 4 place - 7:k2 - def - -
+himAlaya 3 - - - - - - 8:begin
+[ne_2] 8 place - 5:r6 - def - -
+svitjaralEMda_1 5 fw - 7:k2s - - - -
+kaha_9-yA_jAwA_hE_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_118>
+#खजियार की शाम हर सैलानी को सुकून देती है ।
+KajiyAra 1 - - - - - - 2:begin
+[ne_1] 2 place - 3:r6 - - - -
+SAma_1 3 - - 11:k1 - - - -
+hara_2 4 - - 5:quant - - - -
+sElAnI_1 5 - - 11:k4 - - - -
+sukUna_1 7 - - - - - - 11:kriyAmUla
+xe_1-wA_hE_1 8 - - - - - - 11:verbalizer
+[cp_1] 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_119>
+#घुड़सवारी यहाँ का मुख्य मनोरंजन और रोमांच है ।
+GudZasavArI_1 1 - - 8:k1 - - - -
+$wyax 2 - - 10:k7p Tourism_118.1:coref proximal - -
+muKya_18 4 - - 10:mod - - - -
+manoraMjana_2 5 - - - - - - 10:op1
+romAMca_4 7 - - - - - - 10:op2
+hE_1-pres 8 - - 0:main - - - -
+[conj_1] 10 - - 8:k1s - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_120>
+#गर्मियों में चंबा शहर गरम रहता है ।
+garmI_4 1 - pl 6:k7p - - - -
+caMbA 3 - - - - - - 2:begin
+Sahara 4 - - - - - - 2:inside
+[ne_1] 2 place - 6:k1 - - - -
+garama_1 5 - - 6:k1s - - - -
+raha_2-wA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_121>
+#खजियार से चंबा केवल 43 किलोमीटर ही है ।
+KajiyAra 1 - - - - - - 3:begin
+[ne_1] 3 place - 8:k5 - - - -
+caMbA 4 - - - - - - 5:begin
+[ne_2] 5 place - 8:k1 - kevala_1 - -
+43 6 numex - - - - - 11:count
+kilomItara_1 7 - - - - - - 11:unit
+hE_1-pres 8 - - 0:main - - - -
+[dist_meas_1] 11 - - 8:rmeas - hI_1 - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_122>
+#चंबा की मणिमहेश यात्रा भी प्रसिद्ध है ।
+caMbA 1 - - - - - - 2:begin
+[ne_1] 2 place - 4:r6 - - - -
+maNimaheSa_1 3 - - 4:mod - - - -
+yAwrA_1 4 - - 7:k1 - BI_1 - -
+prasixXa_1 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_123>
+#मैक्लोडगंज में पर्यटकों की गहमागहमी देखने को मिलती है ।
+mEklodagaMja 1 - - - - - - 9:begin
+[ne_1] 9 place - 8:k7p - - - -
+paryataka_1 3 - pl 5:r6 - - - -
+gahamAgahamI_1 5 - - 6:k2 - - - -
+xeKa_1 6 - - 8:rt - - - -
+mila_1-wA_hE_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_124>
+#यहाँ अधिकांश व्यवसायी तिब्बती हैं ।
+$wyax 1 - - 5:k7p Tourism_123.1:coref proximal - -
+aXikAMSa_1 2 - - 3:quant - - - -
+vyAvasAyI_6 3 - pl 5:k1 - - - -
+wibbawI_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_125>
+#आज यही जगह मैक्लोडगंज है ।
+Aja_1 1 - - 5:k7t - - - -
+$wyax 2 - - 3:dem Tourism_123.1:coref proximal - -
+jagaha_1 3 - - 5:k1 - - - -
+mEklodagaMja 4 - - - - - - 6:begin
+[ne_1] 6 place - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_126>
+#भागसू गाँव को भागसूनाथ भी कहते हैं ।
+BAgasU 1 - - - - - - 3:begin
+gAzva 2 - - - - - - 3:inside
+[ne_1] 3 place - 6:k2 - - - -
+BAgasUnAWa 4 - - - - - - 5:begin
+[ne_2] 5 place - 6:k2s - BI_1 - -
+kaha_1-wA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_127>
+#भागसू गाँव के पास ही आकर्षक झरना भी है ।
+BAgasU 1 - - - - - - 3:begin
+gAzva 2 - - - - - - 3:inside
+[ne_1] 3 place - 4:rdl - - - -
+pAsa_1 4 - - 9:k7p - hI_1 - -
+AkarRaka_1 6 - - 7:mod - - - -
+JaranA_4 7 - - 9:k1 - BI_1 - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_128>
+#भागसू गाँव में ठहरने की अच्छी सुविधाएँ हैं ।
+BAgasU 1 - - - - - - 3:begin
+gAzva 2 - - - - - - 3:inside
+[ne_1] 3 place - 8:k7p - - - -
+Tahara_14 4 - - 7:rt - - - -
+acCA_1 6 - - 7:mod - - - -
+suviXA_1 7 - pl 8:k1 - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_129>
+#कुल्लू शहर मनाली से 40 किलोमीटर पहले पड़ता है ।
+kullU 1 - - - - - - 4:begin
+Sahara 2 - - - - - - 4:inside
+[ne_1] 4 place - 8:k1 - - - -
+manAlI 3 - - - - - - 9:begin
+[ne_2] 9 place - 8:k5 - - - -
+40 5 - - - - - - 11:count
+kilomItara_1 6 - - - - - - 11:unit
+pahalA_1 7 - - 11:k7p - - - -
+padZa_1-wA_hE_1 8 - - 0:main - - - -
+[dist_meas_1] 11 - - 8:rmeas - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_130>
+#अक्तूबर - नवंबर में मौसम काफी सुहावना रहता है ।
+akwUbara_1 1 moy - - - - - 9:start
+navaMbara_1 3 moy - - - - - 9:end
+mOsama_1 5 - - 8:k1 - - - -
+kAPI_3 6 - - 7:quant - - - -
+suhAvanA_4 7 - - 8:k1s - - - -
+raha_4-wA_hE_1 8 - - 0:main - - - -
+[span_1] 9 - - 8:k7t - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_131>
+#ढालपुर बाजार में सूखे मेवे भी खरीदे जा सकते हैं ।
+DAlapura 1 - - - - - - 3:begin
+bAjAra 2 - - - - - - 3:inside
+[ne_1] 3 place - 7:k7p - - - -
+sUKA_1 4 - - 5:mod - - - -
+mevA_2 5 - pl 7:k2 - BI_1 - -
+KarIxa_1-yA_jA_sakawA_hE_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_132>
+#कुल्लू से 10 किलोमीटर पहले भूंतर हवाई अड्डा स्थित है ।
+kullU 1 - - - - - - 2:begin
+[ne_1] 2 place - 10:k5 - - - -
+10 3 - - - - - - 13:count
+kilomItara_1 4 - - - - - - 13:unit
+pahalA_11 5 - - 13:k7p - - - -
+BUMwara 6 - - - - - - 11:begin
+[ne_2] 11 - - 12:mod - - - -
+havAI_4 7 - - - - - - 12:mod
+addA_10 8 - - - - - - 12:head
+sWiwa_1 9 - - 10:k1s - - - -
+hE_1-pres 10 - - 0:main - - - -
+[nc_1] 12 - - 10:k1 - - - -
+[dist_meas_1] 13 - - 10:rmeas - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_133>
+#भूंतर से कसोल 32 और मणिकर्ण 35 किलोमीटर है ।
+BUMwara 1 - - - - - - 2:begin
+[ne_2] 2 place - 9:k5 - - - -
+kasola 3 - - - - - - 11:begin
+32 4 - - - - - - 13:count
+kilomItara_1 21 - - - - - - 13:unit
+maNikarNa 6 - - - - - - 14:begin
+35 7 - - - - - - 12:count
+kilomItara_1 8 - - - - - - 12:unit
+hE_1-pres 9 - - 0:main - - - -
+[ne_1] 11 place - - - - - 13:op1
+[dist_meas_1] 12 - - 9:k1s - - - -
+[conj_1] 13 - - 9:k1s - - - -
+[ne_3] 14 place - - - - - 13:op2
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_134>
+#व्यास नदी के निकट ही मनाली नगर बसा है ।
+vyAsa 1 male - - - - - 3:begin
+naxI 2 - - - - - - 3:inside
+[ne_1] 3 - - 4:rdl - - - -
+nikata_1 4 - - 8:k7p - hI_1 - -
+manAlI 6 - - - - - - 5:begin
+nagara 7 - - - - - - 5:inside
+[ne_2] 5 place - 8:k1 - - - -
+basA_16 9 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_135>
+#खरीदारी की बेहतर जगह माल रोड ही है ।
+KarIxArI_1 1 - - 4:r6 - - - -
+behawara_1 3 - - 4:mod - - - -
+jagaha_1 4 - - 8:k1 - - - -
+mAla_27 5 - - - - - - 10:begin
+roda_2 6 - - - - - - 10:inside
+hE_1-pres 8 - - 0:main - - - -
+[ne_1] 10 place - 8:k1s - hI_1 - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_136>
+#जुलाई से सितंबर तक रोहतांग यात्रा आसान है ।
+julAI_1 1 - - - - - - 10:start
+siwaMbara_1 3 - - - - - - 10:end
+rohawAMga 5 - - - - - - 4:begin
+[ne_1] 4 - - 6:mod - - - -
+yAwrA_1 6 - - 8:k1 - - - -
+AsAna_1 7 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+[span_1] 10 moy - 8:k7t - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_137>
+#हर की दून जाने के दो मार्ग हैं ।
+hara 1 - - - - - - 2:begin
+ki 5 - - - - - - 2:inside
+xUna 3 - - - - - - 2:inside
+[ne_1] 2 - - 4:k2p - - - -
+jA_1 4 - - 8:rt - - - -
+xo_1 6 numex - 7:card - - - -
+mArga_1 7 - pl 8:k1 - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_138>
+#किन्नौर का इलाका घाटियों से भरा है ।
+kinnOra 1 - - - - - - 5:begin
+[ne_1] 5 place - 3:r6 - - - -
+ilAkA_2 3 - - 6:k1 - - - -
+GAtI_1 4 - pl 6:k3 - - - -
+BarA_1-yA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_139>
+#किन्नर अनेक कलाएँ जानते थे ।
+kinnara 1 - - - - - - 5:begin
+[ne_1] 5 - - 4:k1 - - - -
+aneka_3 2 - - 3:quant - - - -
+kalA_1 3 - pl 4:k2 - - - -
+jAna_10-wA_WA_1 4 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_140>
+#बाद में जातिवाद ने यहाँ 2 वर्ग बना दिए ।
+bAxa_18 1 - - 8:k7t - - - -
+jAwivAxa_1 3 - - 8:k1 - - - -
+$wyax 5 - - 8:k7p Tourism_138.3:coref proximal - -
+2 6 numex - 7:card - - - -
+varga_1 7 - pl 8:k2 - - - -
+banA_1-yA_1 8 - - 0:main - [shade:xe_1] - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_141>
+#इसे बास्पा घाटी भी कहते हैं ।
+$wyax 1 - - 4:dem Tourism_138.3:coref proximal - -
+bAspA 2 - - - - - - 4:begin
+GAtI 3 - - - - - - 4:inside
+[ne_1] 4 place - 5:k2s - BI_1 - -
+kaha_1-wA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_142>
+#हर कहीं सेब के बाग हैं ।
+hara_2 1 - - 2:quant - - - -
+kahI_2 2 - - 6:k7p - - - -
+seba_1 3 - - 5:r6 - - - -
+bAgZa_5 5 - pl 6:k1 - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_143>
+#सुरागाय और ट्राउट मछली यहाँ खूब हैं ।
+surAgAya_1 1 - - - - - - 10:op1
+trAuta_1 3 - - - - - - 10:op2
+$wyax 5 - - 7:k7p Tourism_138.3:coref proximal - -
+KUba_2 6 - - 7:intf - - - -
+hE_1-pres 7 - - 0:main - - - -
+maCalI_1 4 - pl 7:k1 - - - -
+[conj_1] 10 - - 4:mod - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_144>
+#पर्वत की ढलानों पर भोज वन चमकते हैं ।
+parvawa_1 1 - - 3:r6 - - - -
+DalAna_1 3 - pl 7:k7p - - - -
+Boja_5 5 - - 6:mod - - - -
+vana_7 6 - - 7:k1 - - - -
+camaka_4-wA_hE_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_145>
+#देवदार के जंगल हर कहीं फैले हैं । changing the tam to pres
+xevaxAra_1 1 - - 3:r6 - - - -
+jaMgala_2 3 - pl 6:k1 - - - -
+hara_2 4 - - 5:quant - - - -
+kahI_2 5 - - 6:k7p - - - -
+PEla_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_146>
+#कामरू किला कलात्मक है ।
+kAmarU 1 - - - - - - 6:begin
+kilA 2 male - - - - - 6:inside
+kalAwmaka_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+[ne_1] 6 place - 4:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_147>
+#बीच में नया बस अड्डा है ।
+bIca_11 1 - - 6:k7p - - - -
+nayA_1 3 - - 8:mod - - - -
+basa_7 4 - - - - - - 8:mod
+addA_1 5 - - - - - - 8:head
+hE_1-pres 6 - - 0:main - - - -
+[nc_1] 8 - - 6:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_148>
+#रिकांगपिओ बाजार बहुत फैला हुआ है । change the tam to pres
+rikAMgapio 1 - - - - - - 5:begin
+bAjAra 2 - - - - - - 5:inside
+[ne_1] 5 place - 4:k1 - - - -
+bahuwa_1 3 - - 4:intf - - - -
+PEla_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_149>
+#चिनी और कल्पा गाँव में छोटे - छोटे बाजार हैं ।
+cinI 1 - - - - - - 5:begin
+[ne_1] 5 place - - - - - 12:op1
+kalpA 3 - - - - - - 7:begin
+[ne_2] 7 place - - - - - 12:op2
+gAzva_1 4 - - 10:k7p - - - -
+CotA_1 8 - xviwva 9:mod - - - -
+bAjAra_1 9 - pl 10:k1 - - - -
+hE_1-pres 10 - - 0:main - - - -
+[conj_1] 12 - - 4:mod - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_150>
+#सर्दियों में रोहतांग बर्फ़बारी के कारण बंद हो जाता हैं ।
+sarxI_2 1 - pl 13:k7t - - - -
+rohawAMga 3 - - - - - - 6:begin
+[ne_1] 6 - - 13:k1 - - - -
+barPZabArI_1 4 - - 13:rh - - - -
+baMxa_1 7 - - - - - - 13:kriyAmUla
+ho_1-wA_hE_1 8 - - - - [shade:jA_1] - 13:verbalizer
+[cp_1] 13 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_151>
+#रोहतांग तक चढ़ाई और फिर उतराई । Ascension till Rohtang and then descension .
+rohawAMga 1 - - - - - - 2:begin
+[ne_1] 2 place - 3:k7t - def - -
+caDZAI_15 3 - - - - - - 7:op1
+Pira_1 5 - - 6:krvn - - - -
+uwarAI_5 6 - - - - - - 7:op2
+[conj_1] 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_152>
+#कारदंग गोंपा का पुस्तकालय और चित्र संग्रहालय चकित करता है । The library and the painting museum of Kardang Gompa mesmerise .
+kAraxaMga 1 - - - - - - 3:begin
+goMpA 2 - - - - - - 3:inside
+[ne_1] 3 place - 11:r6 - def - -
+puswakAlaya_1 5 - - - - - - 11:op1
+ciwra_2 7 - - 8:mod - - - -
+saMgrahAlaya_1 8 - - - - - - 11:op2
+cakiwa_8 10 - - - - - - 14:kriyAmUla
+[conj_1] 11 - - 14:k1 - - - -
+[conj_1] 11 - - 14:k1 - - - -
+[cp_1] 14 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_153>
+#टूर एंड ट्रेवल या एडवेंचर एजेंसियाँ यह काम सँभालती हैं । Tour and travel or adventure agencies manage this work .
+tUra 1 - - - - - - 4:begin
+eMda 2 - - - - - - 4:inside
+trevala 3 - - - - - - 4:inside
+[ne_1] 4 org - - - - - 10:op1
+exaveMcara 5 - - - - - - 11:begin
+ejaMsI 6 - - - - - - 11:inside
+[ne_2] 11 - pl - - - - 10:op2
+$wyax 7 - - 8:dem - proximal - -
+kAma_1 8 - - 9:k2 - - - -
+sazBAla_3-wA_hE_1 9 - - 0:main - - - -
+[disjunct_1] 10 - pl 9:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_154>
+#कुंजुम दर्रे का बेहद जोखिम भरा मार्ग है । Kunjum pass has an extremely risky road .
+kuMjuma 1 - - - - - - 3:begin
+xarrA 2 - - - - - - 3:inside
+[ne_1] 3 place - 9:r6 - def - -
+behaxa_7 4 - - 5:intf - - - -
+joKima_1 5 - - 6:k1 - - - -
+Bara_1 6 - - 7:rvks - - - -
+mArga_5 7 - - 8:k1 - - - -
+hE_2-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_155>
+#काजा में कुछ गेस्टहाउस भी हैं । There are also a few guest houses in Kaza .
+kAjA 1 - - - - - - 6:begin
+[ne_1] 6 place - 5:k7p - - - -
+kuCa_2 2 - - 3:quant - - - -
+gestahAusa_1 3 - pl 5:k1 - BI_1 - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_156>
+#ताबो में उन साधक - साधिकाओं की मूर्तियाँ मौजूद हैं । The statues of those ascetics are present in Tabo .
+wAbo 1 - - - - - - 10:begin
+[ne_1] 10 place - 8:k7p - - - -
+$wyax 2 - pl 13:dem - distal - -
+sAXaka_6 3 - pl - - - - 7:op1
+sAXaka_6 5 - pl - - - - 7:op2
+[conj_1] 7 - pl 13:r6 - - - -
+mUrwi_2 13 - pl 9:k1 - - - -
+mOjUxa_1 8 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+[conj_1] 7 - pl 9:r6 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_157>
+#मिट्टी की इन मूर्तियों पर अब वस्त्र डाल दिए गए हैं । Clothes have been put on these earthen statues now .
+mittI_8 1 - - 3:r6 - - - -
+$wyax 2 - pl 3:dem - proximal - -
+mUrwi_2 3 - pl 9:k7 - - - -
+aba_1 4 - - 9:k7t - - - -
+vaswra_5 5 - pl 9:k2 - - - -
+dAla_6 7 - - - - - - 9:kriyAmUla
+xe_1-yA_gayA_hE_2 8 - - - - - - 9:verbalizer
+[cp_1] 9 - - 0:main - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=Tourism_158>
+#गोंपा में छोटा सा बाजार भी है । There is also a small bazaar in Gompa .
+goMpA 1 - - - - - - 7:begin
+[ne_1] 7 place - 6:k7p - - - -
+CotA_1 2 - - 4:mod - sA_1 - -
+bAjAra_1 4 - - 6:k1 - BI_1 - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_159>
+#अक्तूबर के बाद जम्मू का मौसम सर्द होने लगता है । After October the weather of Jammu starts getting cold .
+akwUbara_1 1 moy - 2:rkl - - - -
+bAxa_1 2 - - 11:k7t - - - -
+jammU 3 - - - - - - 10:begin
+[ne_1] 10 place - 5:r6 - - - -
+mOsama_2 5 - - 11:k1 - - - -
+sarxa_1 6 - - 11:k1s - - - -
+ho_5 7 - - - - - - 11:kriyAmUla
+laga_1-wA_hE_1 9 - - - - - - 11:verbalizer
+[cp_2] 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_160>
+#बाहु किले को शहर का सबसे पुराना किला माना जाता है । Bahu Fort is considered the oldest fort of the city .
+bAhu 1 - - - - - - 3:begin
+kilA 2 - - - - - - 3:inside
+[ne_1] 3 place - 9:k2 - def - -
+Sahara_1 4 - - 8:r6 - - - -
+purAnA_1 6 - superl 8:mod - - - -
+kilA_1 8 - - 9:k2s - - - -
+mAna_1-yA_jAwA_hE_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_161>
+#जम्मू से लगभग 45 किलोमीटर दूर स्थित हैं मानसर झील । About 45 kilometres away from Jammu is situated the Mansar Lake .
+jammU 1 - - - - - - 13:begin
+[ne_1] 13 place - 8:k5 - - - -
+45 2 numex - - - lagaBaga_1 - 11:count
+kilomItara_1 3 - - - - - - 11:unit
+xUra_1 4 - - 8:k7p - - - -
+sWiwa_1 6 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+mAnasara 9 - - - - - - 12:begin
+JIla 10 - - - - - - 12:inside
+[dist_meas_1] 11 - - 4:rmeas - - - -
+[ne_1] 12 place - 8:k1 - def - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_162>
+#खूबसूरत मानसर झील आसपास स्थित जंगलों से घिरी हुई है ।changed tam
+KUbasUrawa_4 1 - - 7:mod - - - -
+mAnasara 2 - - - - - - 7:begin
+JIla 3 female - - - - - 7:inside
+[ne_1] 7 place - 8:k1 - - - -
+AsapAsa_3 4 - - 8:k7p - - - -
+sWiwa_2 5 - - 6:mod - - - -
+jaMgala_1 6 - pl 8:k5 - - - -
+GirA_1-yA_hE_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_163>
+#सुरिनसर झील जम्मू से 42 किलोमीटर दूर है ।
+surinasara 1 - - - - - - 11:begin
+JIla 2 - - - - - - 11:inside
+[ne_1] 11 place - 8:k1 - - - -
+jammU 3 male - - - - - 12:begin
+[ne_2] 12 place - 8:k5 - - - -
+42 5 numex - - - - - 10:count
+kilomItara_1 6 - - - - - - 10:unit
+xUra_1 7 - - 6:k7p - - - -
+hE_1-pres 8 - - 0:main - - - -
+[dist_meas_1] 10 - - 8:rmeas - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_164>
+#गुफा लगभग 150 किलोमीटर लंबी है ।
+guPA_1 1 - - 6:k1 - - - -
+150 3 numex - - - lagaBaga_1 - 8:count
+kilomItara_1 4 - - - - - - 8:unit
+laMbA_1 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+[dist_meas_1] 8 - - 6:rmeas - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_165>
+#जिसमें सैकड़ों लोग खड़े हो सकते हैं ।changed tam
+$yax 1 - - 5:k7 Tourism_164.1:coref - - -
+sEkadZA_1 2 numex pl 3:card - - - -
+loga_2 3 - - 9:k1 - - - -
+KadZA_1 4 - - - - - - 9:kriyAmUla
+ho_2-pres 5 - - - - - - 9:verbalizer
+[cp_1] 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_166>
+#पटनीटाप क्षेत्र खूबसूरती का पर्याय माना जाता है । The area of Patnitop is considered synonym of beauty .
+patanItApa 1 - - - - - - 7:begin
+kRewra 2 - - - - - - 7:inside
+[ne_1] 7 place - 6:k2 - - - -
+KUbasUrawI_1 3 - - 5:r6 - - - -
+paryAya_1 5 - - 6:k2s - - - -
+mAna_1-yA_jAwA_hE_1 6 - - 0:main - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=Tourism_167>
+#पटनीटाप पर पूरे साल पर्यटकों का तांता लगा रहता है । There is always a queue of tourists on Patnitop .
+patanItApa 1 - - - - - - 13:begin
+[ne_1] 13 place - 12:k7p - - - -
+pUrA_1 2 - - 3:mod - - - -
+sAla_1 3 - - 12:k7t - - - -
+paryataka_1 4 - pl 6:r6 - - - -
+wAMwA_7 6 - - 12:k1 - - - -
+lagA_1 7 - - - - - - 12:kriyAmUla
+raha_1-wA_hE_1 9 - - - - - - 12:verbalizer
+[cp_1] 12 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_168>
+#स्कीइंग के शौकीनों के लिए पटनीटाप जगह काफी रोमांचक है । For the fans of skiing Patnitop is very adventurous .
+skIiMga_1 1 - - 3:r6 - - - -
+SOkIna_2 3 - pl 10:rt - - - -
+patanItApa 5 - - - - - - 11:begin
+[ne_1] 11 place - 6:mod - - - -
+jagaha_1 6 - - 10:k1 - - - -
+kAPI_3 7 - - 8:intf - - - -
+romAMcaka_1 8 - - 10:k1s - - - -
+hE_1-pres 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_169>
+#सर्दियों में पटनीटाप में स्कीइंग का आयोजन किया जाता है । Skiing is organised in Patnitop during winters .
+sarxI_2 1 - pl 8:k7t - - - -
+patanItApa 2 - - - - - - 9:begin
+[ne_1] 9 place - 8:k7p - - - -
+skIiMga_1 3 - - 5:r6 - - - -
+AyojanA_1 5 - - - - - - 20:kriyAmUla
+kara_1-yA_jAwA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=Tourism_170>
+#पटनीटाप में एक खूबसूरत झील भी है । There is also a beautiful lake in Patnitop .
+patanItApa 1 - - - - - - 8:begin
+[ne_1] 8 place - 7:k7p - - - -
+eka_2 2 numex - 5:quant - - - -
+KUbasUrawa_3 3 - - 5:mod - - - -
+JIla_1 5 - - 7:k1 - BI_1 - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_171>
+#श्रीनगर में हर तरफ कुदरत के हसीन नजारे देखने को मिलते हैं । Smiling scenes of nature is found everywhere in Srinagar .
+SrInagara 1 - - - - - - 12:begin
+[ne_1] 12 place - 11:k7p - - - -
+hara_2 2 - - 3:quant - - - -
+waraPa_3 3 - - 11:k7p - - - -
+kuxarawa_1 4 - - 7:r6 - - - -
+hasIna_5 5 - - 7:mod - - - -
+najArA_1 7 - pl 11:k2 - - - -
+xeKa_1 8 - - 11:rt - - - -
+mila_9-wA_hE_1 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_172>
+#जो श्रीनगर को अन्य पहाड़ी पर्यटन स्थलों से अलग करती हैं । These differentiate Srinagar from other mountainous tourist places .
+$yax 1 - pl 10:k1 - - - -
+SrInagara 2 - - - - - - 11:begin
+[ne_1] 11 place - 10:k2 - - - -
+anya_1 3 - - 6:mod - - - -
+pahAdZI_1 4 - - 5:mod - - - -
+paryatana_4 5 - - 6:mod - - - -
+sWala_2 6 - pl 10:k5 - - - -
+alaga_1 7 - - - - - - 10:kriyAmUla
+kara_1-wA_hE_1 8 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_173>
+#क्योंकि श्रीनगर का मौसम नया रंग बिखेरते हुए आता है । Because the weather of Srinagar comes spreading new colour .
+SrInagara 1 - - - - - - 9:begin
+[ne_1] 9 place - 3:r6 - - - -
+mOsama_2 3 - - 8:k1 - - - -
+nayA_1 4 - - 5:mod - - - -
+raMga_1 5 - - 6:k2 - - - -
+biKera_5 6 - - 8:rsk - - - -
+A_1-wA_hE_1 8 - - 0:main Tourism_172.10:kAryakAraNa - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_174>
+#श्रीनगर को जम्मू - कश्मीर का गौरव भी कहा जाता है । Srinagar is also called pride of Jammu and Kashmir .
+SrInagara 1 - - - - - - 9:begin
+[ne_2] 9 place - 8:k2 - - - -
+jammU 2 - - - - - - 6:begin
+kaSmIra 4 - - - - - - 6:inside
+[ne_1] 6 place - 7:r6 - def - -
+gOrava_1 7 - - 8:k2s - BI_1 - -
+kaha_1-yA_jAwA_hE_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_175>
+#डल झील जम्मू - कश्मीर की दूसरी बड़ी झील है । Dal lake is second biggest lake of Jammu and Kashmir .
+dala 1 - - - - - - 3:begin
+JIla 2 - - - - - - 3:inside
+[ne_1] 3 place - 11:k1 - def - -
+jammU 4 - - - - - - 7:begin
+kaSmIra 6 - - - - - - 7:inside
+[ne_2] 7 place - 10:r6 - def - -
+xUsarA_1 8 - - 10:ord - - - -
+badZA_1 9 - superl 10:mod - - - -
+JIla_1 10 - - 11:k1s - - - -
+hE_1-pres 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_176>
+#वूलर झील ऊँचे - ऊँचे पहड़ों से घिरी है । Wular lake is surrounded by high mountains .
+vUlara 1 - - - - - - 3:begin
+JIla_1 2 - - - - - - 3:inside
+[ne_1] 3 place - 7:k1 - def - -
+UMcA_2 4 - xviwva 5:mod - - - -
+pahAdZa_1 5 - pl 7:k5 - - - -
+GirA_1-yA_hE_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_177>
+#श्रीनगर के बगीचों में निशात बाग सबसे बड़ा है । Nishat Bagh is the biggest among gardens in Srinagar .
+SrInagara 1 - - - - - - 2:begin
+[ne_1] 2 place - 3:r6 - - - -
+bagIcA_1 3 - pl 9:k7p - - - -
+niSAwa 4 - - - - - - 7:begin
+bAga 5 - - - - - - 7:inside
+[ne_2] 7 place - 9:k1 - def - -
+badZA_1 8 - superl 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_178>
+#गुलमर्ग शहर से 52 किलोमीटर दूर स्थित है । Gulmarg is 52 kilometres away from the city .
+gulamarga 1 - - - - - - 12:begin
+[ne_1] 12 place - 9:k1 - - - -
+Sahara_1 2 - - 9:k5 - - - -
+52 3 numex - - - - - 11:count
+kilomItara_1 4 - - - - - - 11:unit
+xUra_1 5 - - 9:k7p - - - -
+sWiwa_1 7 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+[dist_meas_1] 11 - - 5:rmeas - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_179>
+#गुलमर्ग का पूरा रास्ता देवदार के वृक्षों से ढका हुआ है । The road to Gulmarg is covered with cedar trees throughout .
+gulamarga 1 - - - - - - 10:begin
+[ne_1] 10 place - 4:r6 - - - -
+pUrA_8 2 - - 4:mod - - - -
+rAswA_7 4 - - 9:k1 - - - -
+xevaxAra_1 5 - - 7:r6 - - - -
+vqkRa_1 7 - pl 9:k3 - - - -
+Daka_1-yA_hE_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_180>
+#सर्दी के मौसम में सैलानी यहाँ बर्फ़ के खेलों का मजा लेते हैं । During winter season tourists enjoy snow games here .
+sarxI_2 1 - - 3:r6 - - - -
+mOsama_1 3 - - 12:k7t - - - -
+sElAnI_1 4 - pl 12:k1 - - - -
+$wyax 5 - - 12:k7p Tourism_179.10:coref proximal - -
+baraPa_2 6 - - 8:r6 - - - -
+Kela_2 8 - pl 10:r6 - - - -
+majA_7 10 - - 12:k2 - - - -
+le_1-wA_hE_1 12 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_181>
+#गुलमर्ग में रोपवे एक और आकर्षण है । The ropeway in Gulmarg is another attraction .
+gulamarga 1 - - - - - - 8:begin
+[ne_1] 8 place - 7:k7p - - - -
+ropave_1 2 - - 7:k1 - - - -
+eka_2 3 - - 5:quant - - - -
+Ora_8 4 - - 5:mod - - - -
+AkarRaNa_1 5 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_182>
+#रोपवे स्थानीय भाषा में गंडोला कहा जाता है । Ropeway is called Gondola in local language .
+ropave_1 1 - - 6:k2 - - - -
+sWAnIya_1 2 - - 3:mod - - - -
+BARA_1 3 - - 6:k7 - - - -
+gaMdolA 4 - - 6:k2s - - - -
+kaha_1-yA_jAwA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_183>
+#लेह शहर में सबसे ज्यादा आबादी है । Population is the most in Leh city .
+leha 1 - - - - - - 3:begin
+Sahara 2 - - - - - - 3:inside
+[ne_1] 3 place - 7:k7p - def - -
+jyAxA_1 4 - superl 5:quant - - - -
+AbAxI_1 5 - - 7:k1 - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_184>
+#अब लेह में पर्यटन ही मुख्य व्यवसाय है । Now tourism is the main business in Leh .
+leha 2 - - - - - - 9:begin
+[ne_1] 9 place - 8:k7p - - - -
+paryatana_2 3 - - 8:k1 - hI_1 - -
+muKya_18 4 - - 5:mod - - - -
+vyavasAya_1 5 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_185>
+#पर्यटक यहाँ बहुत फुरसत और बेफिक्री में घूमते मिलते हैं । Tourists are found roaming very leisurely and non-anxious .
+paryataka_1 1 - pl 9:k1 - - - -
+$wyax 2 - - 8:k7p Tourism_183.3:coref - - -
+bahuwa_1 3 - - 6:intf - - - -
+Purasawa_1 4 - - - - - - 7:op1
+bePikrI_1 6 - - - - - - 7:op2
+[conj_1] 7 - - 8:k7 - - - -
+GUma_1 8 - - 9:rvks - - - -
+mila_9-wA_hE_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_186>
+#लेह में अनेक कलात्मक बौद्ध मंदिर और स्तूप हैं । There are several artistic Buddhist temples and stupas in Leh .
+leha 1 - - - - - - 11:begin
+[ne_1] 11 place - 9:k7p - - - -
+aneka_1 2 - - 6:quant - - - -
+kalAwmaka_1 3 - - 10:mod - - - -
+bOxXa_1 4 - - 6:mod - - - -
+maMxira_1 6 - - - - - - 10:op1
+swUpa_1 8 - pl - - - - 10:op2
+hE_1-pres 9 - - 0:main - - - -
+[conj_1] 10 - pl 9:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_187>
+#हर कहीं मठ , मंदिर और स्तूप हैं । Monasteries , temples and stupas are everywhere .
+hara_2 1 - - 2:quant - - - -
+kahI_2 2 - - 8:k7p - - - -
+maTa_1 3 - pl - - - - 10:op1
+maMxira_1 5 - pl - - - - 10:op2
+swUpa_1 7 - pl - - - - 10:op3
+hE_1-pres 8 - - 0:main - - - -
+[conj_1] 10 - pl 8:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_188>
+#एक बड़ी गुफा ससपोल गुफा कहलाती है । One big cave is called the Saspol cave .
+eka_1 1 numex - 3:card - - - -
+badZA_1 2 - - 3:mod - - - -
+guPA_1 3 - - 7:k2 - - - -
+sasapola 4 - - - - - - 9:begin
+guPA_1 5 - - - - - - 9:inside
+kahalA_2-wA_hE_1 7 - - 0:main - - - -
+[ne_1] 9 place - 7:k2s - def - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_189>
+#ससपोल गुफा में सैलानियों की भीड़ लगी रहती है । There is a crowd of tourists in Saspol cave .
+sasapola 1 - - - - - - 3:begin
+guPA 2 - - - - - - 3:inside
+[ne_1] 3 place - 10:k7p - def - -
+sElAnI_1 4 - pl 6:r6 - - - -
+BIdZa_1 6 - - 10:k1 - - - -
+lagA_1 7 - - - - - - 10:kriyAmUla
+raha_1-wA_hE_1 8 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_190>
+#कठिन जीवन में भी वह शांत और कर्मठ दिखता है । Even in difficult life they look calm and working .
+kaTina_1 1 - - 2:mod - - - -
+jIvana_1 2 - - 9:k7 - BI_1 - -
+$wyax 3 - pl 9:k1 - distal - -
+SAMwa_1 4 - - - - - - 8:op1
+karmaTa_4 6 - - - - - - 8:op2
+xiKa_5-wA_hE_1 9 - - 0:main - - - -
+[conj_1] 8 - - 9:k1s - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_191>
+#मुखौटा नृत्य में केवल लामा लोग ही भाग लेते हैं । Only lamas participate in the mask dance .
+muKOtA 1 - - - - - - 13:begin
+nqwya 2 - - - - - - 13:inside
+[ne_1] 13 - - 12:k7 - - - -
+lAmA_1 4 - pl 5:mod - kevala_1 - -
+loga_1 5 - pl 12:k1 - hI_1 - -
+BAga_26 6 - - - - - - 12:kriyAmUla
+le_1-wA_hE_1 9 - - - - - - 12:verbalizer
+[cp_1] 12 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_192>
+#लद्दाख का दूसरा प्रमुख नगर कारगिल है । The second major city of Ladakh is Kargil .
+laxxAKa 1 - - - - - - 8:begin
+[ne_1] 8 place - 5:r6 - - - -
+xUsarA_1 2 - - 5:ord - - - -
+pramuKa_11 3 - - 5:mod - - - -
+nagara_1 5 - - 7:k1 - - - -
+kAragila 6 - - - - - - 9:begin
+[ne_1] 9 place - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_193>
+#श्रीनगर की ओर बढ़ते हुए सीमा बिलकुल साथ लग जाती है । Going ahead towards Srinagar border touches very close .
+SrInagara 1 - - - - - - 12:begin
+[ne_1] 12 place - 5:rd - - - -
+baDZa_15 4 - - 11:rsk - - - -
+sImA_1 5 - - 11:k1 - - - -
+bilakula_1 6 - - 8:intf - - - -
+sAWa_8 8 - - 9:k7 - - - -
+laga_5 9 - - - - - - 11:kriyAmUla
+jA_1-wA_hE_1 10 - - - - - - 11:verbalizer
+[cp_1] 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_194>
+#हर कहीं वाहन उपलब्ध हैं । Vehicles are available everywhere .
+hara_2 1 - - 2:quant - - - -
+kahI_2 2 - - 5:k7p - - - -
+vAhana_1 3 - pl 5:k1 - - - -
+upalabXa_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_195>
+#रोज गार्डन 30 एकड़ में फैला हुआ है । Rose garden is spread in 30 acres .
+roja 1 - - - - - - 3:begin
+gArdana 2 - - - - - - 3:inside
+[ne_1] 3 place - 7:k1 - def - -
+30 4 numex - - - - - 10:count
+ekadZa_1 5 - - - - - - 10:unit
+PElA_1-yA_hE_1 7 - - 0:main - - - -
+[dist_meas_1] 10 - - 7:k7 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_196>
+#टेरेस गार्डन 10 एकड़ में फैला है । Terrace Garden is spread in 10 acres .
+teresa 1 - - - - - - 3:begin
+gArdana 2 - - - - - - 3:inside
+[ne_1] 3 place - 7:k1 - def - -
+10 4 numex - - - - - 10:count
+ekadZa_1 5 - - - - - - 10:unit
+PElA_1-yA_hE_1 7 - - 0:main - - - -
+[dist_meas_1] 10 - - 7:k7 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_197>
+#टेपिआरी पार्क भी बहुत खूबसूरत है । Tapiari Park is also very beautiful .
+tepiArI 1 - - - - - - 3:begin
+pArka 2 - - - - - - 3:inside
+[ne_1] 3 place - 6:k1 - BI_1 - -
+bahuwa_7 4 - - 5:intf - - - -
+KUbasUrawa_4 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_198>
+#डौल म्यूजियम सेक्टर 23 में स्थित है । Doll Museum is situated in sector 23 .
+dOla 1 - - - - - - 3:begin
+myUjiyama 2 - - - - - - 3:inside
+[ne_1] 3 org - 7:k1 - def - -
+sektara_1 4 - - - - - - 7:begin
+23 5 numex - - - - - 7:inside
+[ne_2] 7 place - 9:k7p - def - -
+sWiwa_1 8 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_199>
+#डौल म्यूजियम में मानव के विकास दर्शाया गया है । Human evolution is shown in the Doll Museum .
+dOla 1 - - - - - - 3:begin
+myUjiyama 2 - - - - - - 3:inside
+[ne_1] 3 org - 8:k7p - def - -
+mAnava_3 4 - - 6:r6 - - - -
+vikAsa_1 6 - - 8:k2 - - - -
+xarSA_1-yA_gayA_hE_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_200>
+#अमृतसर एक ऐतिहासिक शहर है । Amritsar is a historical city .
+amqwasara 1 - - - - - - 6:begin
+[ne_1] 6 place - 5:k1 - - - -
+eka_1 2 numex - 4:card - - - -
+EwihAsika_1 3 - - 4:mod - - - -
+Sahara_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_201>
+#अमृतसर शहर पाकिस्तान की सीमा से लगा हुआ है ।
+amqwasara 1 - - - - - - 11:begin
+Sahara 2 - - - - - - 11:inside
+pAkiswAna 3 male - - - - - 12:begin
+sImA_1 4 - - 7:k5 - - - -
+lagA_35-yA_hE_1 7 - - 0:main - - - -
+[ne_1] 11 place - 7:k1 - - - -
+[ne_2] 12 place - 4:r6 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_202>
+#अमृतसर एक व्यवसायिक और प्रसिद्ध पर्यटन स्थल है ।
+amqwasara 1 - - - - - - 10:begin
+eka_2 2 - - 7:quant - - - -
+vyAvasAyika_5 3 - - - - - - 12:op1
+prasixXa_1 5 - - 6:mod - - - -
+paryatana_4 6 - - - - - - 11:mod
+sWala_2 7 - - - - - - 11:head
+hE_1-pres 8 - - 0:main - - - -
+[ne_1] 10 place - 8:k1 - - - -
+[nc_1] 11 - - 8:k1s - - - 12:op2
+[conj_1] 12 - - 11:mod - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_203>
+#इस पर शुद्ध सोने की परत चढ़ाई गई ।
+$wyax 3 - - 9:k7 - proximal - -
+SuxXa_1 5 - - 6:mod - - - -
+sonA_1 6 - pl 8:r6 - - - -
+parawa_1 8 - - 9:k1 - - - -
+caDZAI_16-yA_gayA_1 9 - - 0:main - [shade:jA_1] - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=Tourism_204>
+#सीमा पर 2 लोहे के गेट लगे हैं ।
+sImA_1 1 - - 7:k7 - - - -
+2 3 numex - 4:card - - - -
+lohA_1 4 - - 6:r6 - - - -
+geta_1 6 - - 7:k1 - - - -
+laga_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_205>
+#उस समय पाकिस्तान की तरफ का द्वार भी खुलता है ।
+$wyax 1 - - 2:dem - distal - -
+samaya_1 2 - - 9:k7t - - - -
+pAkiswAna 3 male - - - - - 12:begin
+waraPa_1 5 - - 7:k7p - - - -
+xvAra_3 7 - - 9:k1 - BI_1 - -
+Kula_1-wA_hE_1 9 - - 0:main - - - -
+[ne_1] 12 place - 5:r6 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_206>
+#फिर दोनों देशों के जवान धीरे - धीरे अपना ध्वज फहराते हैं ।
+xono_1 2 numex pl 3:card - - - -
+xeSa_1 3 - pl 5:r6 - - - -
+javAna_15 5 - - 11:k1 - - - -
+XIre_1 8 - xviwva 11:krvn - - - -
+$apanA 9 - pl 10:r6 - - - -
+Xvaja_1 10 - - 11:k2 - - - -
+PaharA_1-wA_hE_1 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_207>
+#ध्वज फहराने के बाद पुनः सीमाद्वार बंद कर दिया जाता है ।
+Xvaja_1 1 - - 2:k2 - - - -
+PaharA_1 2 - pl 8:rblak - - - -
+bAxa_1 4 - - 2:k7p - - - -
+punaH_1 5 - - 8:krvn - - - -
+sImAxvAra_1 6 - - 8:k2 - - - -
+baMxa_1 7 - - - - - - 13:kriyAmUla
+kara_2-wA_hE_1 8 - - - - [shade:xe_1] - 13:verbalizer
+[cp_1] 13 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_208>
+#जलियावाला बाग एक राष्ट्रीय तीर्थ है ।
+jaliyAvAlA 1 - - - - - - 8:begin
+bAga 2 male - - - - - 8:inside
+eka_1 3 numex - 5:card - - - -
+rARtrIya_1 4 - - 5:mod - - - -
+wIrWa_1 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+[ne_1] 8 place - 6:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_209>
+#अमृतसर का टेस्टीटेस्टी फूड बहुत प्रसिद्ध है ।
+amqwasara 1 - - - - - - 9:begin
+testItestI_1 3 - - 4:mod - - - -
+PUda_1 4 - - 7:k1 - - - -
+bahuwa_7 5 - - 6:intf - - - -
+prasixXa_1 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+[ne_1] 9 place - 4:r6 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_210>
+#अमृतसर में त्योहारों की धूम होती है ।
+amqwasara 1 - - - - - - 9:begin
+wyohAra_1 3 - pl 5:r6 - - - -
+XUma_15 5 - - - - - - 10:kriyAmUla
+ho_1-wA_hE_1 6 - - - - - - 10:verbalizer
+[ne_1] 9 place - 6:k7p - - - -
+[cp_1] 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_211>
+#1575 में अकबर ने आगरा में एक किले का निर्माण करवाया ।
+1575 1 yoc - 11:k7t - - - -
+akabara 3 male - - - - - 6:begin
+[ne_1] 6 per - 11:k1 - - - -
+AgarA 5 - - - - - - 9:begin
+[ne_2] 9 place - 11:kp - - - -
+eka_1 7 numex - 8:card - - - -
+kilA_1 8 - pl 10:r6 - - - -
+nirmANa_14 10 - - - - - - 13:kriyAmUla
+kara_27-yA_1 11 - - - - - - 13:verbalizer
+[cp_1] 13 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_212>
+#ताजमहल के निर्माण में लगभग 22 वर्ष का समय लगा था ।
+wAjamahala 1 male - - - - - 11:begin
+[ne_1] 11 place - 3:r6 - - - -
+nirmANa_14 3 - - 10:k7 - - - -
+22 6 numex - 7:card - lagaBaga_1 - -
+varRa_1 7 - pl 9:r6 - - - -
+samaya_1 9 - - 10:k2 - - - -
+laga_1-past 10 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_213>
+#ताजमहल की अद्वितीय नक्काशी देखने लायक है ।
+wAjamahala 1 male - - - - - 8:begin
+[ne_1] 8 place - 4:r6 - - - -
+axviwIya_1 3 - - 4:mod - - - -
+nakkASI_2 4 - pl 5:k2 - - - -
+xeKa_2 5 - - 7:rt - - - -
+lAyaka_1 9 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_214>
+#ताजमहल का मुख्यद्वार दक्षिणी दरवाजा है ।
+wAjamahala 1 male - - - - - 7:begin
+[ne_1] 7 place - 3:r6 - - - -
+muKya_18 2 - - - - - - 12:mod
+xvAra_5 3 - - - - - - -12:head
+xakRiNI_2 4 - - 5:mod - - - -
+xaravAjA_1 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+[nc_1] 12 - - 6:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_215>
+#लालकिला आगरा की दूसरी महत्वपूर्ण इमारत है ।
+lAlakilA 1 - - - - - - 8:begin
+[ne_1] 8 place - 7:k1 - - - -
+AgarA 2 - - - - - - 9:begin
+[ne_2] 9 place - 6:r6 - - - -
+xUsarA_1 4 - - 6:ord - - - -
+mahawvapUrNa_1 5 - - 6:mod - - - -
+imArawa_3 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_216>
+#पर्यटकों के लिए यह किला सूर्योदय से सूर्यास्त तक खुला रहता है ।
+paryataka_1 1 - pl 10:rt - - - -
+$wyax 4 - - 5:dem Tourism_215.8:coref proximal - -
+kilA_1 5 - - 10:k1 - - - -
+sUryoxaya_1 6 - - - - - - 14:start
+sUryAswa_1 8 - - - - - - 14:end
+Kula_1 11 - - - - - - 10:kriyAmUla
+raha_4-wA_hE_1 12 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+[span_1] 14 - - 10:k7t - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_217>
+#लाल किला ताजमहल से तीन किलोमीटर की दूरी पर है ।
+lAla 1 - - - - - - 12:begin
+kilA 2 - - - - - - 12:inside
+wAjamahala 3 - - - - - - 14:begin
+[ne_1] 14 place - 10:k5 - - - -
+wIna_1 5 numex pl - - - - 13:count
+kilomItara_1 6 - - - - - - 13:unit
+xUrI_1 8 - - 10:k7 - - - -
+hE_1-pres 10 - - 0:main - - - -
+[ne_1] 12 place - 10:k1 - - - -
+[dist_meas_1] 13 - - 8:r6 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_218>
+#शाहजहाँ ने इसी किले में अपने जीवन के आखिरी दिन बिताए ।
+SAhajahAz 1 - - - - - - 12:begin
+[ne_1] 12 per - 11:k1 - - - -
+$wyax 3 - - 4:dem Tourism_217.12:coref - - -
+kilA_1 4 - 11:k7p - - - - -
+$apanA 6 male - 7:r6 - - - -
+jIvana_1 7 - - 10:r6 - - - -
+AKirI_1 9 - - 10:mod - - - -
+xina_1 10 - - 11:k2 - - - -
+biwA_1-e_1 11 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_219>
+#सिकंदरा हिंदू - मुसलिम स्थापत्य कला का अद्भुत संगम है ।
+sikaMxarA 1 - - - - - - 13:begin
+[ne_1] 13 place - 10:k1 - - - -
+hiMxuI_3 2 - - - - - - 14:op1
+musalima_1 4 - - - - - - 14:op2
+sWApawya_1 5 - - - - - - 12:mod
+kalA_1 6 - - - - - - 12:head
+axBuwa_14 8 - - 9:mod - - - -
+saMgama_2 9 - - 10:k1s - - - -
+hE_1-pres 10 - - 0:main - - - -
+[conj_1] 14 - - 6:mod - - - -
+[nc_1] 12 - - 9:r6 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_220>
+#चीनी का राजा , फारसी वास्तुकला का एक उत्कृष्ट नमूना है ।
+cInI 1 male - - - - - 2:begin
+kA 14 - - - - - - 2:inside
+rAjA 3 male - - - - - 2:inside
+[ne_1] 2 per - 11:k1 - - - -
+PArasI 5 female - - - - - 13:begin
+vAswukalA 6 - - - - - - 13:inside
+eka_2 8 - - 10:quant - - - -
+uwkqRta_1 9 - - 10:mod - - - -
+namUnA_1 10 - - 11:k1s - - - -
+hE_1-pres 11 - - 0:main - - - -
+[ne_1] 13 - - 10:r6 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_221>
+#एतमादुद्दौला का मकबरा भी आगरा में ही स्थित है ।
+ewamAxuxxOlA 1 male - 3:r6 - - - 10:begin
+[ne_1] 10 per - 3:r6 - - - -
+makabarA_1 3 - - 9:k1 - BI_1 - -
+AgarA 5 - - 9:k7p Tourism_211.5:coref hI_1 - 11:begin
+[ne_2] 11 place - 9:k7p - - - -
+sWiwa_1 8 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_222>
+#यहीं पर नूरजहाँ की माँ भी दफनाई गई थीं ।
+$wyax 1 - - 7:k7p - proximal - -
+nUrajahAz 3 male - - - - - 2:begin
+[ne_1] 2 per - 5:r6 - - - -
+mA_3 5 - - 7:k1 - BI_1 - -
+xaPanA_1-yA_gayA_1 7 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_223>
+#सेंट पीटर्स चर्च ऊँची मीनारों वाला चर्च है ।
+seMta 1 male - - - - - 10:begin
+pItarsa 2 - - - - - - 10:inside
+carca_1 3 - - - - - - 10:inside
+UzcA_1 4 - - 5:mod - - - -
+mInAra_3 5 - mawup 7:mod - - - -
+carca_1 7 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+[ne_1] 10 place - 8:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_224>
+#1573 से यह स्थान फतेहपुर सीकरी कहलाता है ।
+1573 1 yoc - 7:k5 - - - -
+$wyax 3 - - 4:dem - proximal - -
+sWAna_1 4 - - 7:k1 - - - -
+Pawehapura 5 - - - - - - 10:begin
+sIkarI 6 - - - - - - 10:inside
+kahalA_3-wA_hE_1 7 - - 0:main - - - -
+[ne_1] 10 place - 7:k2 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_225>
+#ख्वाब महल कभी सम्राट अकबर का शयनागार था ।
+KvAba 1 male - - - - - 10:begin
+mahala 2 male - - - - - 10:inside
+kaBI_3 3 - - 8:k7t - - - -
+samrAta_1 4 - - 9:mod - - - -
+akabara 5 male - - - - - 9:begin
+[ne_2] 9 per - 7:r6 - - - -
+SayanAgAra_1 7 - - 8:k1s - - - -
+hE_1-past 8 - - 0:main - - - -
+[ne_1] 10 place - 8:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_226>
+#महल में एक खूबसूरत मंच भी है ।
+mahala 1 male - 7:k7p - - - -
+eka_1 3 numex - 5:card - - - -
+KUbasUrawa_4 4 - - 5:mod - - - -
+maMca_2 5 - - 7:k1 - BI_1 - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_227>
+#पंचमहल पांचमंजिली भव्य इमारत है ।
+paMcamahala 1 - - - - - - 6:begin
+[ne_1] 6 place - 5:k1 - - - -
+pAMcamaMjilI_1 2 - - 4:intf - - - -
+Bavya_1 3 - - 4:mod - - - -
+imArawa_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_228>
+#शेख सलीम चिश्ती की दरगाह भी यहाँ पर है ।
+SeKa 1 male - - - - - 12:begin
+salIma 2 male - - - - - 12:inside
+ciSwI 3 - - - - - - 12:inside
+xaragAha_1 5 - - - - - - 6:begin
+$wyax 7 - - 9:k7p - proximal - -
+hE_1-pres 9 - - 0:main - - - -
+[ne_2] 12 per - 5:r6 - - - -
+[ne_1] 6 - - 9:k1 - BI_1 - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_229>
+#जोधाबाई महल अंदर से दोमंजिला है ।
+joXAbAI 1 - - - - - - 4:begin
+mahala 2 male - - - - - 4:inside
+[ne_1] 4 place - 6:k1 - - - -
+aMxara_2 3 - - 6:k5 - - - -
+xomaMjilA_1 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_230>
+#विशाल रूमी दरवाजे की ऊँचाई 60 फुट है ।
+viSAla_1 1 - - 2:mod - - - -
+rUmI 2 - - - - - - 9:begin
+xaravAjA 3 - - - - - - 9:inside
+[ne_1] 9 - - 5:r6 - - - -
+UzcAI_1 5 - - 8:k1 - - - -
+60 6 numex - 7:card - - - -
+PZuta_2 7 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_231>
+#घड़ी मीनार का निर्माण अंगरेजों ने 1881 में करवाया था ।
+GadZI_5 1 - - - - - - 12:mod
+mInAra_2 2 female - - - - - 12:head
+nirmANa_14 4 - - - - - - 13:kriyAmUla
+aMgreja_1 5 anim pl 13:pk1 - - - -
+1881 7 yoc - 13:k7t - - - -
+kara_1-yA_WA_1 9 - - - - - - 13:verbalizer
+[nc_1] 12 - - 4:r6 - - - -
+[cp_1] 13 - - 0:main - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=Tourism_232>
+#पेंडुलम लगभग 14 फुट लंबा है ।
+peMdulama_1 1 - - 6:k1 - - - -
+14 3 numex - 4:card - lagaBaga_1 - -
+PZuta_2 4 - - 5:intf - - - -
+laMbA_5 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_233>
+#रेजीडेंसी भवन का निर्माण भी नवाब आसिफुद्दौला ने करवाया था ।
+rejIdeMsI 1 - - - - - - 12:begin
+Bavana 2 male - - - - - 12:inside
+nirmANa_1 4 - - - - BI_1 - 14:kriyAmUla
+navAba 6 male - - - - - 13:begin
+AsiPuxxOlA 7 - - - - - - 13:inside
+karavA_1-yA_WA_1 9 - - - - - - 14:verbalizer
+[ne_1] 12 - - 4:r6 - - - -
+[ne_2] 13 per - 9:k1 - - - -
+[cp_1] 14 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_234>
+#रेजीडेंसी इमारत में नौका विहार का भी मजा लिया जा सकता है ।
+rejIdeMsI 1 - - - - - - 10:begin
+imArawa 2 - - - - - - 10:inside
+[ne_1] 10 place - 9:k7p - - - -
+nOkA_1 4 - - - - - - 14:mod
+vihAra_7 5 - - - - - - 14:head
+majA_7 8 - - 9:k2 - - - -
+le_1-yA_jA_sakawA_hE_1 9 - - 0:main - - - -
+[nc_1] 14 - - 8:r6 - BI_1 - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_235>
+#जामा मस्जिद इमारत में 260 खंभे हैं ।
+jAmA 1 female - - - - - 9:begin
+masjixa 2 female - - - - - 9:inside
+imArawa 3 - - - - - - 9:inside
+260 5 numex - 6:card - - - -
+KaMBA_1 6 - pl 7:k1 - - - -
+hE_1-pres 7 - - 0:main - - - -
+[ne_1] 9 place - 7:k7p - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_236>
+#इलाहाबाद को पहले प्रयाग नाम से जाना जाता था ।
+ilAhAbAxa 1 - - - - - - 8:begin
+[ne_1] 8 place - 7:k2 - - - -
+pahale_4 3 - - 7:k7t - - - -
+prayAga 4 - - - - - - 10:begin
+nAma 5 - - - - - - 10:inside
+[ne_2] 10 - - 7:k2s - - - -
+jA_17-wA_WA_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_233>
+#संगम इलाहाबाद के आकर्षण का एक प्रमुख केन्द्र है ।
+saMgama 1 male - - - - - 10:begin
+[ne_1] 10 place - 9:k1 - - - -
+ilAhAbAxa 2 - - - - - - 11:begin
+[ne_2] 11 place - 4:r6 - - - -
+AkarRaNa_1 4 - - 8:r6 - - - -
+eka_2 6 - - 8:quant - - - -
+pramuKa_12 7 - - 8:mod - - - -
+keMxra_1 8 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_238>
+#खुसरो बाग को जहाँगीर के पुत्र अमीर खुसरो ने बनवाया था ।
+Kusaro 1 - - - - - - 13:begin
+bAga 2 - - - - - - 13:inside
+jahAzgIra 4 male - - - - - 5:begin
+[ne_3] 5 per - 6:r6 - - - -
+puwra_1 6 - - 10:k1s - - - -
+amIra 7 male - - - - - 14:begin
+Kusaro 8 - - - - - - 14:inside
+bana_19-yA_WA_1 10 - - 0:main - - - -
+[ne_1] 13 place - 10:k2 - - - -
+[ne_2] 14 per - 10:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_239>
+#खुसरो बाग मुगलकालीन कला का एक जीवंत उदाहरण है ।
+Kusaro 1 - - - - - - 11:begin
+bAga 2 - - - - - - 11:inside
+mugalakAlIna_1 3 - - 4:mod - - - -
+kalA_1 4 - - 8:r6 - - - -
+eka_1 6 numex - 8:card - - - -
+jIvaMwa_2 7 - - 8:mod - - - -
+uxAharaNa_4 8 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+[ne_1] 11 place - 9:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_240>
+#इलाहाबाद संग्रहालय में 8 गैलरियाँ हैं ।
+ilAhAbAxa 1 - - - - - - 8:begin
+saMgrahAlaya 2 - - - - - - 8:inside
+8 4 numex - 5:card - - - -
+gElarI_1 5 - pl 6:k1 - - - -
+hE_1-pres 6 - - 0:main - - - -
+[ne_1] 8 place - 6:k7p - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_241>
+#वाराणसी का पौराणिक नाम 'काशी' है ।
+vArANasI 1 female - - - - - 2:begin
+[ne_1] 2 place - 4:r6 - - - -
+pOrANika_2 3 - - 4:mod - - - -
+nAma_1 4 - - 8:k1 - - - -
+kASI 6 - - - - - - 10:begin
+hE_1-pres 8 - - 0:main - - - -
+[ne_2] 10 place - 8:k1s - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_242>
+#वाराणसी से 10 किलोमीटर दूर सारनाथ एक बौद्ध स्थल है ।
+vArANasI 1 female - - - - - 2:begin
+[ne_1] 2 place - 10:k5 - - - -
+10 3 numex - - - - - 12:count
+kilomItara_1 4 - - - - - - 12:unit
+xUra_1 5 - - 4:k7p - - - -
+sAranAWa 6 male - - - - - 11:begin
+[ne_2] 11 place - 10:k1 - - - -
+eka_1 7 numex - 9:card - - - -
+bOxXa_1 8 - - 9:mod - - - -
+sWala_3 9 - - 10:k1s - - - -
+hE_1-pres 10 - - 0:main - - - -
+[dist_meas_1] 12 - - 10:rmeas - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_243>
+#सारनाथ बनारस - गाजीपुर मार्ग पर स्थित है ।
+sAranAWa 1 male - - - - - 3:begin
+[ne_2] 3 place - 8:k1 - - - -
+banArasa 2 male - - - - - 10:begin
+gAjIpura 16 - - - - - - 17:begin
+mArga_1 5 - - 8:k7p - - - -
+sWiwa_1 7 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+[ne_1] 10 place - - - - - 15:start
+[ne_2] 17 place - - - - - 15:end
+[span_1] 15 - - - - - - -
+gAjIpura 4 - - - - - - 10:inside
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_244>
+#अशोक ने सारनाथ एक स्तूप बनवाया था ।
+aSoka 1 male - - - - - 2:begin
+[ne_1] 2 per - 6:k1 - - - -
+sAranAWa 3 male - - - - - 7:begin
+[ne_2] 7 place - 6:k7p - - - -
+eka_2 4 - - 5:quant - - - -
+swUpa_1 5 - - 6:k2 - - - -
+bana_19-yA_WA_1 6 - - 0:main - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=Tourism_245>
+#झाँसी दिल्ली से करीब 415 किलोमीटर दूर है ।
+JAzsI 1 female - - - - - 2:begin
+[ne_1] 2 place - 8:k1 - - - -
+xillI 3 - - - - - - 7:begin
+[ne_2] 7 place - 8:k5 - - - -
+415 5 numex - - - - - 10:count
+kilomItara_1 6 - - - - - - 10:unit
+xUra_1 9 - - 8:k7p - - - -
+hE_1-pres 8 - - 0:main - - - -
+[dist_meas_1] 10 - - 8:rmeas - karIba_1 - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_246>
+#जनवरी - फरवरी में हिमपात बहुत कम समय के लिए होता है ।
+janavarI_1 1 moy - - - - - 10:start
+ParavarI_1 3 moy - - - - - 10:end
+himapAwa_1 5 - - 11:k1 - - - -
+bahuwa_7 6 - - 7:intf - - - -
+kama_1 7 - - 8:quant - - - -
+samaya_1 8 - - 11:rt - - - -
+ho_9-wA_hE_1 11 - - 0:main - - - -
+[span_1] 10 - - 11:k7t - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_247>
+#1545 में इस मस्जिद को शेरशाह सूरी ने बनवाया था ।
+1545 1 yoc - 9:k7t - - - -
+$wyax 3 - - 4:dem - proximal - -
+masjixa_1 4 - - 9:k2 - - - -
+SeraSAha 6 male - - - - - 12:begin
+sUrI 7 female - - - - - 12:inside
+bana_19-yA_WA_1 9 - - 0:main - - - -
+[ne_1] 12 per - 9:k1 - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=Tourism_248>
+#अगम कुएँ की गहराई का आज तक किसी को पता नहीं है ।
+agama 1 male - - - - - 14:begin
+kuAz 2 - - - - - - 14:inside
+gaharAI_1 4 - - 6:r6 - - - -
+Aja_1 6 - - 12:k7t - - - -
+kisI_3 8 - - 12:k4a - - - -
+pawA_11 10 - - 12:k1 - - - -
+nahIM_1 11 - - 12:neg - - - -
+hE_1-pres 12 - - 0:main - - - -
+[ne_1] 14 - - 4:r6 - - - -
+%negative
+</sent_id>"
+"<sent_id=Tourism_249>
+#आधुनिक तारामंडल केन्द्र पटना में स्थित है ।
+AXunika_1 1 - - 2:mod - - - -
+wArAmaMdala 2 - - - - - - 8:begin
+keMxra 3 - - - - - - 8:inside
+[ne_2] 8 place - 7:k1 - - - -
+patanA 4 - - - - - - 5:begin
+[ne_1] 5 - - 7:k7p - - - -
+sWiwa_1 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Tourism_250>
+#वैशाली अब बिहार का एक छोटा शहर है ।
+vESAlI 1 female - - - - - 4:begin
+[ne_1] 4 - - 8:k1 - - - -
+aba_1 2 - - 8:k7t - - - -
+bihAra 3 male - - - - - 9:begin
+[ne_2] 9 - - 7:r6 - - - -
+eka_2 5 - - 7:quant - - - -
+CotA_1 6 - - 7:mod - - - -
+Sahara_1 7 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"

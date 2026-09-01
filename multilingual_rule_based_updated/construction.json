@@ -1,0 +1,2506 @@
+{
+  "constructions": [
+    {
+      "text": "चेंगलपट स्टेशन से एक लाइन अरकोनम तक जाती है ।",
+      "usr_id": "Tourism_001",
+      "constructions": []
+    },
+    {
+      "text": "द्वारका चार धामों में एक धाम भी है ।",
+      "usr_id": "Tourism_002",
+      "constructions": []
+    },
+    {
+      "text": "गढ़-मुक्तेश्वर हिंदुओं का पावन तीर्थ है ।",
+      "usr_id": "Tourism_003",
+      "constructions": []
+    },
+    {
+      "text": "चलें गढ़ मुक्तेश्वर का गंगा मेला ।",
+      "usr_id": "Tourism_004",
+      "constructions": []
+    },
+    {
+      "text": "मुख्य स्नान 13 नवंबर को है ।",
+      "usr_id": "Tourism_005",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 5,
+            "concept": "[calendar_1]",
+            "dep_rel": "k7t",
+            "dep_head": 6
+          },
+          "related_tokens": [
+            {
+              "constr_value": "component",
+              "concept": "13",
+              "index": 3
+            },
+            {
+              "constr_value": "component",
+              "concept": "navaMbara",
+              "index": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "अशोक स्तंभ को सिंह स्तंभ के नाम से भी जाना जाता है ।",
+      "usr_id": "Tourism_006",
+      "constructions": []
+    },
+    {
+      "text": "गढ़ मुक्तेश्वर का नाम शिव बल्लभपुर पड़ा ।",
+      "usr_id": "Tourism_007",
+      "constructions": []
+    },
+    {
+      "text": "अशोक स्तंभ के पास एक छोटा सा तालाब भी है ।",
+      "usr_id": "Tourism_008",
+      "constructions": []
+    },
+    {
+      "text": "शिव बल्लभपुर शिवजी को अति प्रिय है ।",
+      "usr_id": "Tourism_009",
+      "constructions": []
+    },
+    {
+      "text": "शिव बल्लभपुर क्षेत्र मुझे काशी के समान प्रिय है ।",
+      "usr_id": "Tourism_010",
+      "constructions": []
+    },
+    {
+      "text": "लेकिन धीरे-धीरे गंगा जी स्थान छोड़ती चली गईं ।",
+      "usr_id": "Tourism_011",
+      "constructions": []
+    },
+    {
+      "text": "मेला स्थल कार आदि से आराम से पहुँचा जा सकता है ।",
+      "usr_id": "Tourism_012",
+      "constructions": []
+    },
+    {
+      "text": "लेकिन अब यातायात के कई साधन उपलब्ध हैं ।",
+      "usr_id": "Tourism_013",
+      "constructions": []
+    },
+    {
+      "text": "हस्तिनापुर का ऐतिहासिक महत्व है ।",
+      "usr_id": "Tourism_014",
+      "constructions": []
+    },
+    {
+      "text": "कश्मीरी गेट से लगातार मेरठ तक की बसें जाती हैं ।",
+      "usr_id": "Tourism_015",
+      "constructions": []
+    },
+    {
+      "text": "मेरठ से हस्तिनापुर की बसें मिल जाती हैं ।",
+      "usr_id": "Tourism_016",
+      "constructions": []
+    },
+    {
+      "text": "दिल्ली से हस्तिनापुर की दूरी तकरीबन 105 किलोमीटर है ।",
+      "usr_id": "Tourism_017",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 12,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "105",
+              "index": 10
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "भगवान मल्लिनाथ का समवोशरन भी हस्तिनापुर में ही हुआ ।",
+      "usr_id": "Tourism_018",
+      "constructions": []
+    },
+    {
+      "text": "लोगबाग दूर-दूर से उनके दर्शन के लिए जाते थे ।",
+      "usr_id": "Tourism_019",
+      "constructions": []
+    },
+    {
+      "text": "रामायण काल के परशुराम भी हस्तिनापुर में पैदा हुए ।",
+      "usr_id": "Tourism_020",
+      "constructions": []
+    },
+    {
+      "text": "बाहुबली ने पोदनपुर पर शासन किया ।",
+      "usr_id": "Tourism_021",
+      "constructions": []
+    },
+    {
+      "text": "जबकि उनके पुत्र सोमयश ने हस्तिनापुर पर शासन किया ।",
+      "usr_id": "Tourism_022",
+      "constructions": []
+    },
+    {
+      "text": "श्रेयंषकुमार की स्मृति में रत्न स्तम्भ बनवाया था ।",
+      "usr_id": "Tourism_023",
+      "constructions": []
+    },
+    {
+      "text": "यह अतिशय क्षेत्र कहलाता है ।",
+      "usr_id": "Tourism_024",
+      "constructions": []
+    },
+    {
+      "text": "अतिशय का अर्थ है सामान्य से बहुत ज्यादा ।",
+      "usr_id": "Tourism_025",
+      "constructions": []
+    },
+    {
+      "text": "बिहार का शांति स्तूप विश्व प्रसिद्ध है ।",
+      "usr_id": "Tourism_026",
+      "constructions": []
+    },
+    {
+      "text": "पर्यटक बरैला झील में नौका विहार का भी आनंद ले सकते हैं ।",
+      "usr_id": "Tourism_027",
+      "constructions": []
+    },
+    {
+      "text": "तिजारा में एक बड़ा हॉल है ।",
+      "usr_id": "Tourism_028",
+      "constructions": []
+    },
+    {
+      "text": "इसे मान-स्तंभ कहकर पुकारा जाता है ।",
+      "usr_id": "Tourism_029",
+      "constructions": []
+    },
+    {
+      "text": "भगवान की मूर्तियों के दूर से ही दर्शन हो जाते हैं ।",
+      "usr_id": "Tourism_030",
+      "constructions": []
+    },
+    {
+      "text": "इसे मान-स्तंभ कहा जाता है ।",
+      "usr_id": "Tourism_031",
+      "constructions": []
+    },
+    {
+      "text": "पर्यटक इसकी मोहक छटा में खो जाते हैं ।",
+      "usr_id": "Tourism_032",
+      "constructions": []
+    },
+    {
+      "text": "बरैला झील का सबसे नजदीकी रेलवे स्टेशन हाजीपुर है ।",
+      "usr_id": "Tourism_033",
+      "constructions": []
+    },
+    {
+      "text": "मैनें यह पाया ।",
+      "usr_id": "Tourism_034",
+      "constructions": []
+    },
+    {
+      "text": "पटना से टैक्सी के जरिए बरैला झील तक पहुँचा जा सकता है ।",
+      "usr_id": "Tourism_035",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 15,
+            "concept": "[span_1]",
+            "dep_rel": "k1s",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "start",
+              "concept": "patanA",
+              "index": 2
+            },
+            {
+              "constr_value": "end",
+              "concept": "barElA+lake_1",
+              "index": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "तीरथगढ़ रियासत के किसी राजा के दो पुत्र थे ।",
+      "usr_id": "Tourism_036",
+      "constructions": []
+    },
+    {
+      "text": "एक राजकुमार चन्द्रदेव और दूसरा तीरथदेव ।",
+      "usr_id": "Tourism_037",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 11,
+            "concept": "[conj_1]",
+            "dep_rel": "k1",
+            "dep_head": 10
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "prince_7+caMxraxeva",
+              "index": 5
+            },
+            {
+              "constr_value": "op2",
+              "concept": "wIraWaxeva",
+              "index": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "राजकुमार चन्द्रदेव को विरासत में चन्द्रगिरी का क्षेत्र मिला ।",
+      "usr_id": "Tourism_038",
+      "constructions": []
+    },
+    {
+      "text": "उनके भाई को तीरथगढ़ की जागीर मिली ।",
+      "usr_id": "Tourism_039",
+      "constructions": []
+    },
+    {
+      "text": "वाल्मीकि नेशनल पार्क से नजदीकी रेलवे स्टेशन रक्सौल है ।",
+      "usr_id": "Tourism_040",
+      "constructions": []
+    },
+    {
+      "text": "इस गुफा में छोटे-छोटे पोखर स्थित हैं ।",
+      "usr_id": "Tourism_041",
+      "constructions": []
+    },
+    {
+      "text": "अब ये मछलियाँ जन्म से ही अंधी पैदा होती हैं ।",
+      "usr_id": "Tourism_042",
+      "constructions": []
+    },
+    {
+      "text": "यह डार्विन के सिद्धांत की पुष्टि करती है ।",
+      "usr_id": "Tourism_043",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[cp_1]",
+            "dep_rel": "main",
+            "dep_head": 0
+          },
+          "related_tokens": [
+            {
+              "constr_value": "kriyAmula",
+              "concept": "validate_1",
+              "index": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "चूना पत्थर की आकृतियाँ शिवलिंग के समान जान पड़ती हैं ।",
+      "usr_id": "Tourism_044",
+      "constructions": []
+    },
+    {
+      "text": "इस गुफा का धार्मिक महत्व भी है ।",
+      "usr_id": "Tourism_045",
+      "constructions": []
+    },
+    {
+      "text": "दूर-दूर तक पर्वत मालाएँ फैली हैं ।",
+      "usr_id": "Tourism_046",
+      "constructions": []
+    },
+    {
+      "text": "बस्तर की वास्तविक सीमा यहीं से शुरू होती है ।",
+      "usr_id": "Tourism_047",
+      "constructions": []
+    },
+    {
+      "text": "बारसूर गीदम से 22 किलोमीटर की दूरी पर स्थित है ।",
+      "usr_id": "Tourism_048",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 8,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "r6",
+            "dep_head": 10
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "22",
+              "index": 6
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "यहाँ गणेश जी की विशाल मूर्ति है ।",
+      "usr_id": "Tourism_049",
+      "constructions": []
+    },
+    {
+      "text": "मामा-भांजा मंदिर दो गर्भगृह युक्त मंदिर है ।",
+      "usr_id": "Tourism_050",
+      "constructions": []
+    },
+    {
+      "text": "मामा-भांजा मंदिर के मंडप आपस में जुड़े हुये हैं ।",
+      "usr_id": "Tourism_051",
+      "constructions": []
+    },
+    {
+      "text": "ye maMxira ArkiyolAjI viBAga dvArA saMrakRiwa smAraka hEM .",
+      "usr_id": "tourism_052",
+      "constructions": []
+    },
+    {
+      "text": "गुण्डमहादेवी का पुत्र सोमेश्वर देव एक प्रतापी राजा था ।",
+      "usr_id": "Tourism_053",
+      "constructions": []
+    },
+    {
+      "text": "दंतेश्वरी देवी बस्तर के रहवासियों की आस्था का प्रतीक है ।",
+      "usr_id": "Tourism_054",
+      "constructions": []
+    },
+    {
+      "text": "दशहरे के समय देश-विदेश के पर्यटक बस्तर आते है ।",
+      "usr_id": "Tourism_055",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 5,
+            "concept": "[xvanxva_1]",
+            "dep_rel": "r6",
+            "dep_head": 7
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "country_1",
+              "index": 2
+            },
+            {
+              "constr_value": "op2",
+              "concept": "world_1",
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "रांची में प्रमुख धर्मशालाएँ ।",
+      "usr_id": "Tourism_056",
+      "constructions": []
+    },
+    {
+      "text": "बैलाडीला में गेस्ट हाऊस में रुका जा सकता है ।",
+      "usr_id": "Tourism_057",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 7,
+            "concept": "[spatial_1]",
+            "dep_rel": "k7p",
+            "dep_head": 6
+          },
+          "related_tokens": [
+            {
+              "constr_value": "whole",
+              "concept": "bElAdIlA",
+              "index": 2
+            },
+            {
+              "constr_value": "part",
+              "concept": "gesata+hAusa",
+              "index": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "बचेली का अयस्क अच्छे ग्रेड का माना जाता है ।",
+      "usr_id": "Tourism_058",
+      "constructions": []
+    },
+    {
+      "text": "हुंडरू फॉल रांची से 40 किलोमीटर दूर है ।",
+      "usr_id": "Tourism_59",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 11,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "40",
+              "index": 5
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ताड़ी के रसभरे फलों को खाना अच्छा लगता है ।",
+      "usr_id": "Tourism_060",
+      "constructions": []
+    },
+    {
+      "text": "के.के. लाइन की लम्बाई 50 से 900 मीटर तक है ।",
+      "usr_id": "Tourism_061",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[span_1]",
+            "dep_rel": "k1s",
+            "dep_head": 11
+          },
+          "related_tokens": [
+            {
+              "constr_value": "unit",
+              "concept": "meter_3",
+              "index": 8
+            },
+            {
+              "constr_value": "start",
+              "concept": "50",
+              "index": 6
+            },
+            {
+              "constr_value": "end",
+              "concept": "900",
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "प्रपात को नीचे से उतरकर देखना अच्छा लगता है ।",
+      "usr_id": "Tourism_062",
+      "constructions": []
+    },
+    {
+      "text": "यहाँ बच्चों के लिये बाल उद्यान एवं रेलगाड़ी की व्यवस्था है ।",
+      "usr_id": "Tourism_063",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 7,
+            "concept": "[conj_1]",
+            "dep_rel": "r6",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "child_3+garden_7",
+              "index": 10
+            },
+            {
+              "constr_value": "op2",
+              "concept": "train_4",
+              "index": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "सुन्दर लॉन एवं पुष्प उद्यान पर्यटकों का मन मोह लेते हैं ।",
+      "usr_id": "Tourism_064",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 7,
+            "concept": "[conj_1]",
+            "dep_rel": "k1",
+            "dep_head": 12
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "beautiful_24+lawn_1",
+              "index": 5
+            },
+            {
+              "constr_value": "op2",
+              "concept": "flower_3+garden_7",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "प्रातः एवं सांयकालीन भ्रमण के लिये यह उपयुक्त स्थान है ।",
+      "usr_id": "Tourism_065",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 5,
+            "concept": "[conj_1]",
+            "dep_rel": "k7t",
+            "dep_head": 4
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "morning_6",
+              "index": 1
+            },
+            {
+              "constr_value": "op2",
+              "concept": "evening_8",
+              "index": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "आइलैण्ड में लगी पवन चक्की भी आकर्षित करती है ।",
+      "usr_id": "Tourism_066",
+      "constructions": []
+    },
+    {
+      "text": "केरल प्रांत पर्यटकों में बेहद लोकप्रिय है ।",
+      "usr_id": "Tourism_067",
+      "constructions": []
+    },
+    {
+      "text": "केरल में अनेक प्रकार के दर्शनीय स्थल हैं ।",
+      "usr_id": "Tourism_068",
+      "constructions": []
+    },
+    {
+      "text": "दमन और दीव में बहुत छोटे-छोटे द्वीप हैं ।",
+      "usr_id": "Tourism_069",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 4,
+            "concept": "[conj_1]",
+            "dep_rel": "k7p",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "xamana",
+              "index": 3
+            },
+            {
+              "constr_value": "op2",
+              "concept": "xiyu",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "दीव गुजरात के जूनागढ़ जिले से जुड़ा है ।",
+      "usr_id": "Tourism_070",
+      "constructions": []
+    },
+    {
+      "text": "नानी दमन का मुख्य आकर्षण संत जैरोम का किला है ।",
+      "usr_id": "Tourism_071",
+      "constructions": []
+    },
+    {
+      "text": "देविका बीच दमन से पाँच किमी उत्तर में है ।",
+      "usr_id": "Tourism_072",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 8,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "5",
+              "index": 6
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_2",
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "जैमपोरे बीच का शांत वातावरण प्रेमियों को खींच लाता है ।",
+      "usr_id": "Tourism_073",
+      "constructions": []
+    },
+    {
+      "text": "तैराकी के लिए भी जैमपोरे बीच बहुत अच्छा स्थान है ।",
+      "usr_id": "Tourism_074",
+      "constructions": []
+    },
+    {
+      "text": "क्या है दीव में ।",
+      "usr_id": "Tourism_075",
+      "constructions": []
+    },
+    {
+      "text": "चौबटिया एक बगीचा है ।",
+      "usr_id": "Tourism_076",
+      "constructions": []
+    },
+    {
+      "text": "चक्रतीर्थ बीच हरियाली के सौंदर्य से भरपूर है ।",
+      "usr_id": "Tourism_077",
+      "constructions": []
+    },
+    {
+      "text": "कब जाएँ दमन और दीव ?",
+      "usr_id": "Tourism_078",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 6,
+            "concept": "[conj_1]",
+            "dep_rel": "k2p",
+            "dep_head": 2
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "xamana",
+              "index": 5
+            },
+            {
+              "constr_value": "op1",
+              "concept": "xiyu",
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "कैसे पहुँचें दमन और दीव ?",
+      "usr_id": "Tourism_079",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 6,
+            "concept": "[conj_1]",
+            "dep_rel": "k2p",
+            "dep_head": 2
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "xamana",
+              "index": 8
+            },
+            {
+              "constr_value": "op2",
+              "concept": "xiyu",
+              "index": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "दमन और दीव दोनों एयरपोर्ट से जुड़े हैं ।",
+      "usr_id": "Tourism_080",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 4,
+            "concept": "[conj_1]",
+            "dep_rel": "k1",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "xamana",
+              "index": 8
+            },
+            {
+              "constr_value": "op2",
+              "concept": "xiyu",
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "चौबटिया के पास ही एक जलप्रपात है ।",
+      "usr_id": "Tourism_081",
+      "constructions": []
+    },
+    {
+      "text": "कालिका माता मंदिर मूलतः एक सूर्य मंदिर था ।",
+      "usr_id": "Tourism_082",
+      "constructions": []
+    },
+    {
+      "text": "मंदिर का शिखर पूर्णतः नवीन रचना है ।",
+      "usr_id": "Tourism_083",
+      "constructions": []
+    },
+    {
+      "text": "मूलतः मंदिर एक विशाल जगती पर बना था ।",
+      "usr_id": "Tourism_084",
+      "constructions": []
+    },
+    {
+      "text": "कुंभस्वामी या कुंभश्याम मंदिर मूलतः वैष्णव मंदिर था ।",
+      "usr_id": "Tourism_085",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 5,
+            "concept": "[disjunct_1]",
+            "dep_rel": "mod",
+            "dep_head": 7
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "kuMBasvAmI",
+              "index": 3
+            },
+            {
+              "constr_value": "op2",
+              "concept": "kuMBaSyAma",
+              "index": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "शिमला पर्यटकों के लिए एक अद्भुत अनुभव प्रदान करता है ।",
+      "usr_id": "Tourism_086",
+      "constructions": []
+    },
+    {
+      "text": "पालोड तिरुवनन्तपुरम से 35 कि.मी. दूर है ।",
+      "usr_id": "Tourism_087",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 7,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "35",
+              "index": 5
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_2",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "पालोड से पेरिंगम्मला पहुँच सकते हैं ।",
+      "usr_id": "Tourism_088",
+      "constructions": []
+    },
+    {
+      "text": "अंचुतेंगु का समुद्रतट भी अत्यंत सुन्दर है ।",
+      "usr_id": "Tourism_089",
+      "constructions": []
+    },
+    {
+      "text": "अंचुतेंगु मछुआरों का प्रमुख केन्द्र भी है ।",
+      "usr_id": "Tourism_090",
+      "constructions": []
+    },
+    {
+      "text": "आक्कुलम झील नौकारोहण की दृष्टि से महत्त्वपूर्ण है ।",
+      "usr_id": "Tourism_091",
+      "constructions": []
+    },
+    {
+      "text": "चित्तारि का तटीय भाग विशाल है ।",
+      "usr_id": "Tourism_092",
+      "constructions": []
+    },
+    {
+      "text": "चित्तारि हरियाली से ढंका एक छोटा द्वीप है ।",
+      "usr_id": "Tourism_093",
+      "constructions": []
+    },
+    {
+      "text": "यहाँ एक बालक अकस्मात प्रकट हुआ ।",
+      "usr_id": "Tourism_094",
+      "constructions": []
+    },
+    {
+      "text": "तलश्शेरी में एक रेलवे स्टेशन है ।",
+      "usr_id": "Tourism_095",
+      "constructions": []
+    },
+    {
+      "text": "सप्तपुरियों के दर्शन से मिलता है मोक्ष !",
+      "usr_id": "Tourism_96",
+      "constructions": []
+    },
+    {
+      "text": "हिंदू धर्म में तीर्थ का बड़ा महत्व है ।",
+      "usr_id": "Tourism_097",
+      "constructions": []
+    },
+    {
+      "text": "इसका नाम बनारस या वाराणसी भी है ।",
+      "usr_id": "Tourism_098",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 7,
+            "concept": "[disjunct_1]",
+            "dep_rel": "k1s",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "banArasa",
+              "index": 6
+            },
+            {
+              "constr_value": "op2",
+              "concept": "vArANasI",
+              "index": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "खड़ी बाजार रानीखेत का मुख्य बाजार है ।",
+      "usr_id": "Tourism_099",
+      "constructions": []
+    },
+    {
+      "text": "लक्सर से एक लाइन हरिद्वार तक गई है ।",
+      "usr_id": "Tourism_100",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[span_1]",
+            "dep_rel": "k2p",
+            "dep_head": 7
+          },
+          "related_tokens": [
+            {
+              "constr_value": "start",
+              "concept": "laksara",
+              "index": 12
+            },
+            {
+              "constr_value": "end",
+              "concept": "harixvAra",
+              "index": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "जाखू चोटी शिमला की सब से ऊँची पर्वतचोटी है ।",
+      "usr_id": "Tourism_101",
+      "constructions": []
+    },
+    {
+      "text": "चैल महल को 1972 में सरकारी संपत्ति घोषित किया गया ।",
+      "usr_id": "Tourism_102",
+      "constructions": []
+    },
+    {
+      "text": "शिमला का वन्यजीव अभ्यारण्य देखने योग्य है ।",
+      "usr_id": "Tourism_103",
+      "constructions": []
+    },
+    {
+      "text": "कोनीफर्स में पर्यटक रुकना चाहें तो रुक भी सकते हैं ।",
+      "usr_id": "Tourism_104",
+      "constructions": []
+    },
+    {
+      "text": "कोनीफर्स में एचपीडीसी के रेस्तराँ और होटल हैं ।",
+      "usr_id": "Tourism_105",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[conj_1]",
+            "dep_rel": "k1",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "restaurant_3",
+              "index": 5
+            },
+            {
+              "constr_value": "op2",
+              "concept": "hotel_1",
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "गर्मियों में ठंडी सड़क सब को लुभाती है ।",
+      "usr_id": "Tourism_106",
+      "constructions": []
+    },
+    {
+      "text": "पंजपुला एक सैरगाह है ।",
+      "usr_id": "Tourism_107",
+      "constructions": []
+    },
+    {
+      "text": "डलहौजी में शहीद भगत सिंह के चाचा की समाधि भी है ।",
+      "usr_id": "Tourism_108",
+      "constructions": []
+    },
+    {
+      "text": "आज चश्मे में से एक धारा निकलती है ।",
+      "usr_id": "Tourism_109",
+      "constructions": []
+    },
+    {
+      "text": "यह स्थल ' म्यूजिकल पीक ' भी कहलाता है ।",
+      "usr_id": "Tourism_110",
+      "constructions": []
+    },
+    {
+      "text": "कालाटोप गांधी चौक से 8 किलोमीटर दूर है ।",
+      "usr_id": "Tourism_111",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 12,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "8",
+              "index": 5
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "agaswa ke bAxa garma kapadZe sAWa raKeM .",
+      "usr_id": "tourism_112",
+      "constructions": []
+    },
+    {
+      "text": "सामान्य स्वेटर व शाल हर मौसम में चाहिए ।",
+      "usr_id": "Tourism_113",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[conj_1]",
+            "dep_rel": "k1",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "sweater_1",
+              "index": 2
+            },
+            {
+              "constr_value": "op2",
+              "concept": "shawl_3",
+              "index": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "चंबा के रुमाल प्रसिद्ध हैं ।",
+      "usr_id": "Tourism_114",
+      "constructions": []
+    },
+    {
+      "text": "खजियार डलहौजी से 22 किलोमीटर दूर है ।",
+      "usr_id": "Tourism_115",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 9,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 7
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "22",
+              "index": 4
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ट्रैकिंग के लिए पिंडारी ग्लेशियर बहुत ही सुंदर है ।",
+      "usr_id": "Tourism_116",
+      "constructions": []
+    },
+    {
+      "text": "KajiyAra ko himAlaya kA svitjaralEMda kahA jAtA hai .",
+      "usr_id": "Tourism_117",
+      "constructions": []
+    },
+    {
+      "text": "खजियार की शाम हर सैलानी को सुकून देती है ।",
+      "usr_id": "Tourism_118",
+      "constructions": []
+    },
+    {
+      "text": "घुड़सवारी यहाँ का मुख्य मनोरंजन और रोमांच है ।",
+      "usr_id": "Tourism_119",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[conj_1]",
+            "dep_rel": "k1s",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "entertainment_5",
+              "index": 5
+            },
+            {
+              "constr_value": "op2",
+              "concept": "adventure_1",
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "गर्मियों में चंबा शहर गरम रहता है ।",
+      "usr_id": "Tourism_120",
+      "constructions": []
+    },
+    {
+      "text": "खजियार से चंबा केवल 43 किलोमीटर ही है ।",
+      "usr_id": "Tourism_121",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 11,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "43",
+              "index": 6
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "चंबा की मणिमहेश यात्रा भी प्रसिद्ध है ।",
+      "usr_id": "Tourism_122",
+      "constructions": []
+    },
+    {
+      "text": "मैक्लोडगंज में पर्यटकों की गहमागहमी देखने को मिलती है ।",
+      "usr_id": "Tourism_123",
+      "constructions": []
+    },
+    {
+      "text": "यहाँ अधिकांश व्यवसायी तिब्बती हैं ।",
+      "usr_id": "Tourism_124",
+      "constructions": []
+    },
+    {
+      "text": "आज यही जगह मैक्लोडगंज है ।",
+      "usr_id": "Tourism_125",
+      "constructions": []
+    },
+    {
+      "text": "भागसू गाँव को भागसूनाथ भी कहते हैं ।",
+      "usr_id": "Tourism_126",
+      "constructions": []
+    },
+    {
+      "text": "भागसू गाँव के पास ही आकर्षक झरना भी है ।",
+      "usr_id": "Tourism_127",
+      "constructions": []
+    },
+    {
+      "text": "भागसू गाँव में ठहरने की अच्छी सुविधाएँ हैं ।",
+      "usr_id": "Tourism_128",
+      "constructions": []
+    },
+    {
+      "text": "कुल्लू शहर मनाली से 40 किलोमीटर पहले पड़ता है ।",
+      "usr_id": "Tourism_129",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 11,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "40",
+              "index": 5
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "अक्तूबर - नवंबर में मौसम काफी सुहावना रहता है ।",
+      "usr_id": "Tourism_130",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 9,
+            "concept": "[span_1]",
+            "dep_rel": "k7t",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "start",
+              "concept": "october_1",
+              "index": 1
+            },
+            {
+              "constr_value": "end",
+              "concept": "november_1",
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ढालपुर बाजार में सूखे मेवे भी खरीदे जा सकते हैं ।",
+      "usr_id": "Tourism_131",
+      "constructions": []
+    },
+    {
+      "text": "कुल्लू से 10 किलोमीटर पहले भूंतर हवाई अड्डा स्थित है ।",
+      "usr_id": "Tourism_132",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 13,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 10
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "10",
+              "index": 3
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "भूंतर से कसोल 32 और मणिकर्ण 35 किलोमीटर है ।",
+      "usr_id": "Tourism_133",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 12,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "k1s",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "35",
+              "index": 7
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 8
+            }
+          ]
+        },
+        {
+          "original_concept": {
+            "index": 13,
+            "concept": "[conj_1]",
+            "dep_rel": "k1s",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "32",
+              "index": 4
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 21
+            },
+            {
+              "constr_value": "op1",
+              "concept": "kasola",
+              "index": 11
+            },
+            {
+              "constr_value": "op2",
+              "concept": "maNikarNa",
+              "index": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "व्यास नदी के निकट ही मनाली नगर बसा है ।",
+      "usr_id": "Tourism_134",
+      "constructions": []
+    },
+    {
+      "text": "खरीदारी की बेहतर जगह माल रोड ही है ।",
+      "usr_id": "Tourism_135",
+      "constructions": []
+    },
+    {
+      "text": "जुलाई से सितंबर तक रोहतांग यात्रा आसान है ।",
+      "usr_id": "Tourism_136",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[span_1]",
+            "dep_rel": "k7t",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "start",
+              "concept": "july_1",
+              "index": 1
+            },
+            {
+              "constr_value": "end",
+              "concept": "september_1",
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "हर की दून जाने के दो मार्ग हैं ।",
+      "usr_id": "Tourism_137",
+      "constructions": []
+    },
+    {
+      "text": "किन्नौर का इलाका घाटियों से भरा है ।",
+      "usr_id": "Tourism_138",
+      "constructions": []
+    },
+    {
+      "text": "किन्नर अनेक कलाएँ जानते थे ।",
+      "usr_id": "Tourism_139",
+      "constructions": []
+    },
+    {
+      "text": "बाद में जातिवाद ने यहाँ 2 वर्ग बना दिए ।",
+      "usr_id": "Tourism_140",
+      "constructions": []
+    },
+    {
+      "text": "इसे बास्पा घाटी भी कहते हैं ।",
+      "usr_id": "Tourism_141",
+      "constructions": []
+    },
+    {
+      "text": "हर कहीं सेब के बाग हैं ।",
+      "usr_id": "Tourism_142",
+      "constructions": []
+    },
+    {
+      "text": "सुरागाय और ट्राउट मछली यहाँ खूब हैं ।",
+      "usr_id": "Tourism_143",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[conj_1]",
+            "dep_rel": "mod",
+            "dep_head": 4
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "yak_1",
+              "index": 1
+            },
+            {
+              "constr_value": "op2",
+              "concept": "trout_1",
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "पर्वत की ढलानों पर भोज वन चमकते हैं ।",
+      "usr_id": "Tourism_144",
+      "constructions": []
+    },
+    {
+      "text": "देवदार के जंगल हर कहीं फैले हैं । changing the tam to pres",
+      "usr_id": "Tourism_145",
+      "constructions": []
+    },
+    {
+      "text": "कामरू किला कलात्मक है ।",
+      "usr_id": "Tourism_146",
+      "constructions": []
+    },
+    {
+      "text": "बीच में नया बस अड्डा है ।",
+      "usr_id": "Tourism_147",
+      "constructions": []
+    },
+    {
+      "text": "रिकांगपिओ बाजार बहुत फैला हुआ है । change the tam to pres",
+      "usr_id": "Tourism_148",
+      "constructions": []
+    },
+    {
+      "text": "चिनी और कल्पा गाँव में छोटे - छोटे बाजार हैं ।",
+      "usr_id": "Tourism_149",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 12,
+            "concept": "[conj_1]",
+            "dep_rel": "mod",
+            "dep_head": 4
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "cinI",
+              "index": 5
+            },
+            {
+              "constr_value": "op2",
+              "concept": "kalpA",
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "सर्दियों में रोहतांग बर्फ़बारी के कारण बंद हो जाता हैं ।",
+      "usr_id": "Tourism_150",
+      "constructions": []
+    },
+    {
+      "text": "रोहतांग तक चढ़ाई और फिर उतराई । Ascension till Rohtang and then descension .",
+      "usr_id": "Tourism_151",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 7,
+            "concept": "[conj_1]",
+            "dep_rel": "main",
+            "dep_head": 0
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "ascension_1",
+              "index": 3
+            },
+            {
+              "constr_value": "op2",
+              "concept": "descension_1",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "कारदंग गोंपा का पुस्तकालय और चित्र संग्रहालय चकित करता है । The library and the painting museum of Kardang Gompa mesmerise .",
+      "usr_id": "Tourism_152",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 11,
+            "concept": "[conj_1]",
+            "dep_rel": "k1",
+            "dep_head": 14
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "library_2",
+              "index": 5
+            },
+            {
+              "constr_value": "op2",
+              "concept": "museum_3",
+              "index": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "टूर एंड ट्रेवल या एडवेंचर एजेंसियाँ यह काम सँभालती हैं । Tour and travel or adventure agencies manage this work .",
+      "usr_id": "Tourism_153",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[disjunct_1]",
+            "dep_rel": "k1",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "tUra+eMda+trevala",
+              "index": 4
+            },
+            {
+              "constr_value": "op2",
+              "concept": "exaveMcara+ejaMsI",
+              "index": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "कुंजुम दर्रे का बेहद जोखिम भरा मार्ग है । Kunjum pass has an extremely risky road .",
+      "usr_id": "Tourism_154",
+      "constructions": []
+    },
+    {
+      "text": "काजा में कुछ गेस्टहाउस भी हैं । There are also a few guest houses in Kaza .",
+      "usr_id": "Tourism_155",
+      "constructions": []
+    },
+    {
+      "text": "ताबो में उन साधक - साधिकाओं की मूर्तियाँ मौजूद हैं । The statues of those ascetics are present in Tabo .",
+      "usr_id": "Tourism_156",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 7,
+            "concept": "[conj_1]",
+            "dep_rel": "r6",
+            "dep_head": 13
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "ascetic_23",
+              "index": 3
+            },
+            {
+              "constr_value": "op2",
+              "concept": "ascetic_23",
+              "index": 5
+            }
+          ]
+        },
+        {
+          "original_concept": {
+            "index": 7,
+            "concept": "[conj_1]",
+            "dep_rel": "r6",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "ascetic_23",
+              "index": 3
+            },
+            {
+              "constr_value": "op2",
+              "concept": "ascetic_23",
+              "index": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "मिट्टी की इन मूर्तियों पर अब वस्त्र डाल दिए गए हैं । Clothes have been put on these earthen statues now .",
+      "usr_id": "Tourism_157",
+      "constructions": []
+    },
+    {
+      "text": "गोंपा में छोटा सा बाजार भी है । There is also a small bazaar in Gompa .",
+      "usr_id": "Tourism_158",
+      "constructions": []
+    },
+    {
+      "text": "अक्तूबर के बाद जम्मू का मौसम सर्द होने लगता है । After October the weather of Jammu starts getting cold .",
+      "usr_id": "Tourism_159",
+      "constructions": []
+    },
+    {
+      "text": "बाहु किले को शहर का सबसे पुराना किला माना जाता है । Bahu Fort is considered the oldest fort of the city .",
+      "usr_id": "Tourism_160",
+      "constructions": []
+    },
+    {
+      "text": "जम्मू से लगभग 45 किलोमीटर दूर स्थित हैं मानसर झील । About 45 kilometres away from Jammu is situated the Mansar Lake .",
+      "usr_id": "Tourism_161",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 11,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 4
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "45",
+              "index": 2
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "खूबसूरत मानसर झील आसपास स्थित जंगलों से घिरी हुई है ।changed tam",
+      "usr_id": "Tourism_162",
+      "constructions": []
+    },
+    {
+      "text": "सुरिनसर झील जम्मू से 42 किलोमीटर दूर है ।",
+      "usr_id": "Tourism_163",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "42",
+              "index": 5
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "गुफा लगभग 150 किलोमीटर लंबी है ।",
+      "usr_id": "Tourism_164",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 8,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 6
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "150",
+              "index": 3
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "जिसमें सैकड़ों लोग खड़े हो सकते हैं ।changed tam",
+      "usr_id": "Tourism_165",
+      "constructions": []
+    },
+    {
+      "text": "पटनीटाप क्षेत्र खूबसूरती का पर्याय माना जाता है । The area of Patnitop is considered synonym of beauty .",
+      "usr_id": "Tourism_166",
+      "constructions": []
+    },
+    {
+      "text": "पटनीटाप पर पूरे साल पर्यटकों का तांता लगा रहता है । There is always a queue of tourists on Patnitop .",
+      "usr_id": "Tourism_167",
+      "constructions": []
+    },
+    {
+      "text": "स्कीइंग के शौकीनों के लिए पटनीटाप जगह काफी रोमांचक है । For the fans of skiing Patnitop is very adventurous .",
+      "usr_id": "Tourism_168",
+      "constructions": []
+    },
+    {
+      "text": "सर्दियों में पटनीटाप में स्कीइंग का आयोजन किया जाता है । Skiing is organised in Patnitop during winters .",
+      "usr_id": "Tourism_169",
+      "constructions": []
+    },
+    {
+      "text": "पटनीटाप में एक खूबसूरत झील भी है । There is also a beautiful lake in Patnitop .",
+      "usr_id": "Tourism_170",
+      "constructions": []
+    },
+    {
+      "text": "श्रीनगर में हर तरफ कुदरत के हसीन नजारे देखने को मिलते हैं । Smiling scenes of nature is found everywhere in Srinagar .",
+      "usr_id": "Tourism_171",
+      "constructions": []
+    },
+    {
+      "text": "जो श्रीनगर को अन्य पहाड़ी पर्यटन स्थलों से अलग करती हैं । These differentiate Srinagar from other mountainous tourist places .",
+      "usr_id": "Tourism_172",
+      "constructions": []
+    },
+    {
+      "text": "क्योंकि श्रीनगर का मौसम नया रंग बिखेरते हुए आता है । Because the weather of Srinagar comes spreading new colour .",
+      "usr_id": "Tourism_173",
+      "constructions": []
+    },
+    {
+      "text": "श्रीनगर को जम्मू - कश्मीर का गौरव भी कहा जाता है । Srinagar is also called pride of Jammu and Kashmir .",
+      "usr_id": "Tourism_174",
+      "constructions": []
+    },
+    {
+      "text": "डल झील जम्मू - कश्मीर की दूसरी बड़ी झील है । Dal lake is second biggest lake of Jammu and Kashmir .",
+      "usr_id": "Tourism_175",
+      "constructions": []
+    },
+    {
+      "text": "वूलर झील ऊँचे - ऊँचे पहड़ों से घिरी है । Wular lake is surrounded by high mountains .",
+      "usr_id": "Tourism_176",
+      "constructions": []
+    },
+    {
+      "text": "श्रीनगर के बगीचों में निशात बाग सबसे बड़ा है । Nishat Bagh is the biggest among gardens in Srinagar .",
+      "usr_id": "Tourism_177",
+      "constructions": []
+    },
+    {
+      "text": "गुलमर्ग शहर से 52 किलोमीटर दूर स्थित है । Gulmarg is 52 kilometres away from the city .",
+      "usr_id": "Tourism_178",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 11,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 5
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "52",
+              "index": 3
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "गुलमर्ग का पूरा रास्ता देवदार के वृक्षों से ढका हुआ है । The road to Gulmarg is covered with cedar trees throughout .",
+      "usr_id": "Tourism_179",
+      "constructions": []
+    },
+    {
+      "text": "सर्दी के मौसम में सैलानी यहाँ बर्फ़ के खेलों का मजा लेते हैं । During winter season tourists enjoy snow games here .",
+      "usr_id": "Tourism_180",
+      "constructions": []
+    },
+    {
+      "text": "गुलमर्ग में रोपवे एक और आकर्षण है । The ropeway in Gulmarg is another attraction .",
+      "usr_id": "Tourism_181",
+      "constructions": []
+    },
+    {
+      "text": "रोपवे स्थानीय भाषा में गंडोला कहा जाता है । Ropeway is called Gondola in local language .",
+      "usr_id": "Tourism_182",
+      "constructions": []
+    },
+    {
+      "text": "लेह शहर में सबसे ज्यादा आबादी है । Population is the most in Leh city .",
+      "usr_id": "Tourism_183",
+      "constructions": []
+    },
+    {
+      "text": "अब लेह में पर्यटन ही मुख्य व्यवसाय है । Now tourism is the main business in Leh .",
+      "usr_id": "Tourism_184",
+      "constructions": []
+    },
+    {
+      "text": "पर्यटक यहाँ बहुत फुरसत और बेफिक्री में घूमते मिलते हैं । Tourists are found roaming very leisurely and non-anxious .",
+      "usr_id": "Tourism_185",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 7,
+            "concept": "[conj_1]",
+            "dep_rel": "k7",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "leisure_10",
+              "index": 4
+            },
+            {
+              "constr_value": "op2",
+              "concept": "carefreeness_1",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "लेह में अनेक कलात्मक बौद्ध मंदिर और स्तूप हैं । There are several artistic Buddhist temples and stupas in Leh .",
+      "usr_id": "Tourism_186",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[conj_1]",
+            "dep_rel": "k1",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "temple_2",
+              "index": 6
+            },
+            {
+              "constr_value": "op2",
+              "concept": "cairn_1",
+              "index": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "हर कहीं मठ , मंदिर और स्तूप हैं । Monasteries , temples and stupas are everywhere .",
+      "usr_id": "Tourism_187",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[conj_1]",
+            "dep_rel": "k1",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "monastery_2",
+              "index": 3
+            },
+            {
+              "constr_value": "op2",
+              "concept": "temple_2",
+              "index": 5
+            },
+            {
+              "constr_value": "op3",
+              "concept": "cairn_1",
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "एक बड़ी गुफा ससपोल गुफा कहलाती है । One big cave is called the Saspol cave .",
+      "usr_id": "Tourism_188",
+      "constructions": []
+    },
+    {
+      "text": "ससपोल गुफा में सैलानियों की भीड़ लगी रहती है । There is a crowd of tourists in Saspol cave .",
+      "usr_id": "Tourism_189",
+      "constructions": []
+    },
+    {
+      "text": "कठिन जीवन में भी वह शांत और कर्मठ दिखता है । Even in difficult life they look calm and working .",
+      "usr_id": "Tourism_190",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 8,
+            "concept": "[conj_1]",
+            "dep_rel": "k1s",
+            "dep_head": 9
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "calm_1",
+              "index": 4
+            },
+            {
+              "constr_value": "op2",
+              "concept": "hardworking_2",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "मुखौटा नृत्य में केवल लामा लोग ही भाग लेते हैं । Only lamas participate in the mask dance .",
+      "usr_id": "Tourism_191",
+      "constructions": []
+    },
+    {
+      "text": "लद्दाख का दूसरा प्रमुख नगर कारगिल है । The second major city of Ladakh is Kargil .",
+      "usr_id": "Tourism_192",
+      "constructions": []
+    },
+    {
+      "text": "श्रीनगर की ओर बढ़ते हुए सीमा बिलकुल साथ लग जाती है । Going ahead towards Srinagar border touches very close .",
+      "usr_id": "Tourism_193",
+      "constructions": []
+    },
+    {
+      "text": "हर कहीं वाहन उपलब्ध हैं । Vehicles are available everywhere .",
+      "usr_id": "Tourism_194",
+      "constructions": []
+    },
+    {
+      "text": "रोज गार्डन 30 एकड़ में फैला हुआ है । Rose garden is spread in 30 acres .",
+      "usr_id": "Tourism_195",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "k7",
+            "dep_head": 7
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "30",
+              "index": 4
+            },
+            {
+              "constr_value": "unit",
+              "concept": "acre_1",
+              "index": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "टेरेस गार्डन 10 एकड़ में फैला है । Terrace Garden is spread in 10 acres .",
+      "usr_id": "Tourism_196",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "k7",
+            "dep_head": 7
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "10",
+              "index": 4
+            },
+            {
+              "constr_value": "unit",
+              "concept": "acre_1",
+              "index": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "टेपिआरी पार्क भी बहुत खूबसूरत है । Tapiari Park is also very beautiful .",
+      "usr_id": "Tourism_197",
+      "constructions": []
+    },
+    {
+      "text": "डौल म्यूजियम सेक्टर 23 में स्थित है । Doll Museum is situated in sector 23 .",
+      "usr_id": "Tourism_198",
+      "constructions": []
+    },
+    {
+      "text": "डौल म्यूजियम में मानव के विकास दर्शाया गया है । Human evolution is shown in the Doll Museum .",
+      "usr_id": "Tourism_199",
+      "constructions": []
+    },
+    {
+      "text": "अमृतसर एक ऐतिहासिक शहर है । Amritsar is a historical city .",
+      "usr_id": "Tourism_200",
+      "constructions": []
+    },
+    {
+      "text": "अमृतसर शहर पाकिस्तान की सीमा से लगा हुआ है ।",
+      "usr_id": "Tourism_201",
+      "constructions": []
+    },
+    {
+      "text": "अमृतसर एक व्यवसायिक और प्रसिद्ध पर्यटन स्थल है ।",
+      "usr_id": "Tourism_202",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 12,
+            "concept": "[conj_1]",
+            "dep_rel": "mod",
+            "dep_head": 11
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "commercial_1",
+              "index": 3
+            },
+            {
+              "constr_value": "op2",
+              "concept": "tourist_3+place_12",
+              "index": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "इस पर शुद्ध सोने की परत चढ़ाई गई ।",
+      "usr_id": "Tourism_203",
+      "constructions": []
+    },
+    {
+      "text": "सीमा पर 2 लोहे के गेट लगे हैं ।",
+      "usr_id": "Tourism_204",
+      "constructions": []
+    },
+    {
+      "text": "उस समय पाकिस्तान की तरफ का द्वार भी खुलता है ।",
+      "usr_id": "Tourism_205",
+      "constructions": []
+    },
+    {
+      "text": "फिर दोनों देशों के जवान धीरे - धीरे अपना ध्वज फहराते हैं ।",
+      "usr_id": "Tourism_206",
+      "constructions": []
+    },
+    {
+      "text": "ध्वज फहराने के बाद पुनः सीमाद्वार बंद कर दिया जाता है ।",
+      "usr_id": "Tourism_207",
+      "constructions": []
+    },
+    {
+      "text": "जलियावाला बाग एक राष्ट्रीय तीर्थ है ।",
+      "usr_id": "Tourism_208",
+      "constructions": []
+    },
+    {
+      "text": "अमृतसर का टेस्टीटेस्टी फूड बहुत प्रसिद्ध है ।",
+      "usr_id": "Tourism_209",
+      "constructions": []
+    },
+    {
+      "text": "अमृतसर में त्योहारों की धूम होती है ।",
+      "usr_id": "Tourism_210",
+      "constructions": []
+    },
+    {
+      "text": "1575 में अकबर ने आगरा में एक किले का निर्माण करवाया ।",
+      "usr_id": "Tourism_211",
+      "constructions": []
+    },
+    {
+      "text": "ताजमहल के निर्माण में लगभग 22 वर्ष का समय लगा था ।",
+      "usr_id": "Tourism_212",
+      "constructions": []
+    },
+    {
+      "text": "ताजमहल की अद्वितीय नक्काशी देखने लायक है ।",
+      "usr_id": "Tourism_213",
+      "constructions": []
+    },
+    {
+      "text": "ताजमहल का मुख्यद्वार दक्षिणी दरवाजा है ।",
+      "usr_id": "Tourism_214",
+      "constructions": []
+    },
+    {
+      "text": "लालकिला आगरा की दूसरी महत्वपूर्ण इमारत है ।",
+      "usr_id": "Tourism_215",
+      "constructions": []
+    },
+    {
+      "text": "पर्यटकों के लिए यह किला सूर्योदय से सूर्यास्त तक खुला रहता है ।",
+      "usr_id": "Tourism_216",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 14,
+            "concept": "[span_1]",
+            "dep_rel": "k7t",
+            "dep_head": 10
+          },
+          "related_tokens": [
+            {
+              "constr_value": "start",
+              "concept": "sunrise_1",
+              "index": 6
+            },
+            {
+              "constr_value": "end",
+              "concept": "sunset_2",
+              "index": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "लाल किला ताजमहल से तीन किलोमीटर की दूरी पर है ।",
+      "usr_id": "Tourism_217",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 13,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "r6",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "three_1",
+              "index": 5
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "शाहजहाँ ने इसी किले में अपने जीवन के आखिरी दिन बिताए ।",
+      "usr_id": "Tourism_218",
+      "constructions": []
+    },
+    {
+      "text": "सिकंदरा हिंदू - मुसलिम स्थापत्य कला का अद्भुत संगम है ।",
+      "usr_id": "Tourism_219",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 14,
+            "concept": "[conj_1]",
+            "dep_rel": "mod",
+            "dep_head": 6
+          },
+          "related_tokens": [
+            {
+              "constr_value": "op1",
+              "concept": "Hindu_1",
+              "index": 2
+            },
+            {
+              "constr_value": "op2",
+              "concept": "Muslim_4",
+              "index": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "चीनी का राजा , फारसी वास्तुकला का एक उत्कृष्ट नमूना है ।",
+      "usr_id": "Tourism_220",
+      "constructions": []
+    },
+    {
+      "text": "एतमादुद्दौला का मकबरा भी आगरा में ही स्थित है ।",
+      "usr_id": "Tourism_221",
+      "constructions": []
+    },
+    {
+      "text": "यहीं पर नूरजहाँ की माँ भी दफनाई गई थीं ।",
+      "usr_id": "Tourism_222",
+      "constructions": []
+    },
+    {
+      "text": "सेंट पीटर्स चर्च ऊँची मीनारों वाला चर्च है ।",
+      "usr_id": "Tourism_223",
+      "constructions": []
+    },
+    {
+      "text": "1573 से यह स्थान फतेहपुर सीकरी कहलाता है ।",
+      "usr_id": "Tourism_224",
+      "constructions": []
+    },
+    {
+      "text": "ख्वाब महल कभी सम्राट अकबर का शयनागार था ।",
+      "usr_id": "Tourism_225",
+      "constructions": []
+    },
+    {
+      "text": "महल में एक खूबसूरत मंच भी है ।",
+      "usr_id": "Tourism_226",
+      "constructions": []
+    },
+    {
+      "text": "पंचमहल पांचमंजिली भव्य इमारत है ।",
+      "usr_id": "Tourism_227",
+      "constructions": []
+    },
+    {
+      "text": "शेख सलीम चिश्ती की दरगाह भी यहाँ पर है ।",
+      "usr_id": "Tourism_228",
+      "constructions": []
+    },
+    {
+      "text": "जोधाबाई महल अंदर से दोमंजिला है ।",
+      "usr_id": "Tourism_229",
+      "constructions": []
+    },
+    {
+      "text": "विशाल रूमी दरवाजे की ऊँचाई 60 फुट है ।",
+      "usr_id": "Tourism_230",
+      "constructions": []
+    },
+    {
+      "text": "घड़ी मीनार का निर्माण अंगरेजों ने 1881 में करवाया था ।",
+      "usr_id": "Tourism_231",
+      "constructions": []
+    },
+    {
+      "text": "पेंडुलम लगभग 14 फुट लंबा है ।",
+      "usr_id": "Tourism_232",
+      "constructions": []
+    },
+    {
+      "text": "रेजीडेंसी भवन का निर्माण भी नवाब आसिफुद्दौला ने करवाया था ।",
+      "usr_id": "Tourism_233",
+      "constructions": []
+    },
+    {
+      "text": "रेजीडेंसी इमारत में नौका विहार का भी मजा लिया जा सकता है ।",
+      "usr_id": "Tourism_234",
+      "constructions": []
+    },
+    {
+      "text": "जामा मस्जिद इमारत में 260 खंभे हैं ।",
+      "usr_id": "Tourism_235",
+      "constructions": []
+    },
+    {
+      "text": "इलाहाबाद को पहले प्रयाग नाम से जाना जाता था ।",
+      "usr_id": "Tourism_236",
+      "constructions": []
+    },
+    {
+      "text": "संगम इलाहाबाद के आकर्षण का एक प्रमुख केन्द्र है ।",
+      "usr_id": "Tourism_233",
+      "constructions": []
+    },
+    {
+      "text": "खुसरो बाग को जहाँगीर के पुत्र अमीर खुसरो ने बनवाया था ।",
+      "usr_id": "Tourism_238",
+      "constructions": []
+    },
+    {
+      "text": "खुसरो बाग मुगलकालीन कला का एक जीवंत उदाहरण है ।",
+      "usr_id": "Tourism_239",
+      "constructions": []
+    },
+    {
+      "text": "इलाहाबाद संग्रहालय में 8 गैलरियाँ हैं ।",
+      "usr_id": "Tourism_240",
+      "constructions": []
+    },
+    {
+      "text": "वाराणसी का पौराणिक नाम 'काशी' है ।",
+      "usr_id": "Tourism_241",
+      "constructions": []
+    },
+    {
+      "text": "वाराणसी से 10 किलोमीटर दूर सारनाथ एक बौद्ध स्थल है ।",
+      "usr_id": "Tourism_242",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 12,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 10
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "10",
+              "index": 3
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "सारनाथ बनारस - गाजीपुर मार्ग पर स्थित है ।",
+      "usr_id": "Tourism_243",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 15,
+            "concept": "[span_1]",
+            "dep_rel": "-",
+            "dep_head": "-"
+          },
+          "related_tokens": [
+            {
+              "constr_value": "start",
+              "concept": "banArasa+gAjIpura",
+              "index": 10
+            },
+            {
+              "constr_value": "end",
+              "concept": "gAjIpura",
+              "index": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "अशोक ने सारनाथ एक स्तूप बनवाया था ।",
+      "usr_id": "Tourism_244",
+      "constructions": []
+    },
+    {
+      "text": "झाँसी दिल्ली से करीब 415 किलोमीटर दूर है ।",
+      "usr_id": "Tourism_245",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[dist_meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 8
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "415",
+              "index": 5
+            },
+            {
+              "constr_value": "unit",
+              "concept": "kilometre_1",
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "जनवरी - फरवरी में हिमपात बहुत कम समय के लिए होता है ।",
+      "usr_id": "Tourism_246",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 10,
+            "concept": "[span_1]",
+            "dep_rel": "k7t",
+            "dep_head": 11
+          },
+          "related_tokens": [
+            {
+              "constr_value": "start",
+              "concept": "january_1",
+              "index": 1
+            },
+            {
+              "constr_value": "end",
+              "concept": "february_1",
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "1545 में इस मस्जिद को शेरशाह सूरी ने बनवाया था ।",
+      "usr_id": "Tourism_247",
+      "constructions": []
+    },
+    {
+      "text": "अगम कुएँ की गहराई का आज तक किसी को पता नहीं है ।",
+      "usr_id": "Tourism_248",
+      "constructions": []
+    },
+    {
+      "text": "आधुनिक तारामंडल केन्द्र पटना में स्थित है ।",
+      "usr_id": "Tourism_249",
+      "constructions": []
+    },
+    {
+      "text": "वैशाली अब बिहार का एक छोटा शहर है ।",
+      "usr_id": "Tourism_250",
+      "constructions": []
+    }
+  ]
+}
